@@ -1,7 +1,7 @@
 # Introduction
 This is the R code used in the analyses of "Virologic, immunologic, and metabolic outcomes and mortality in people living with HIV on B/F/TAF versus dolutegravir-based antiretroviral therapies: a retrospective multicenter cohort study in China".
 
-Now the paper is submitted to the **.    
+Now the paper is submitted to the Nature Communications.    
 
 ## System requirements
 1) All software dependencies and operating systems (including version numbers): Windows XP and later (including 64-bit versions of Windows) on ix86 and x86_64 chips
