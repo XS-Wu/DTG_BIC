@@ -46,7 +46,7 @@ For more details, please refer to https://cran.r-project.org/bin/windows/base/ol
 ### Expected run time
 
 - **Poisson model**: ~10 s on a typical desktop  
-- **Mixed-effects model**: ~20 s (depends on data size)
+- **Mixed-effects model**: ~20 s on a typical desktop  
 
 
 ## Instructions for use
