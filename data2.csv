@@ -1,0 +1,1001 @@
+"type","age_group","Sex","marri","trans","WHOStage","region","ARTyear","time_to_ART2","CD4_group","NaiveVL","follow_up_time","event"
+"DTG/3TC","50+","Female","Unmarried","Homosexual","4","Northwestern China","2021","1-7 days","350-500",4.24304645060293,2.20707420923281,0
+"DTG/3TC","25-34","Male","Unmarried","Others","2","Central China","2021","1-7 days","<200",4.6305658573007,0.646098241326399,0
+"DTG/3TC","35-49","Male","Unmarried","Others","4","Northeastern China","2020","1-7 days","350-500",4.14476141777422,2.61551949556451,0
+"DTG+TDF+3TC","25-34","Male","Unmarried","Heterosexual","1","Southwestern China","2022",">30 days",">500",3.64027574302363,3.00676408980507,0
+"DTG/3TC","50+","Female","Married","Heterosexual","4","Northeastern China","2022","8-30 days","200-349",3.95527059862406,1.95367158635054,0
+"DTG+TDF+3TC","50+","Female","Married","Others","2","Northern China","2023","1-7 days","200-349",4.04429035582928,4.63313371012919,0
+"DTG+TDF+3TC","50+","Male","Married","Homosexual","4","Southern China","2021","8-30 days","200-349",5.07067244816156,4.72640732536092,1
+"DTG+TDF+3TC","18-24","Male","Married","Homosexual","4","Central China","2023","8-30 days","200-349",4.73310439412349,4.00330002326518,0
+"DTG/3TC","35-49","Male","Unmarried","Heterosexual","4","Southwestern China","2020",">30 days","<200",4.31480584598279,1.1507760573877,0
+"B/F/TAF","18-24","Male","Others","Others","1","Northern China","2021","8-30 days","200-349",4.37187106926234,0.503312257817015,0
+"DTG+TDF+3TC","35-49","Female","Others","Heterosexual","2","Northern China","2022","8-30 days","200-349",5.03613273267476,4.49311776750255,0
+"DTG+TDF+3TC","35-49","Male","Others","Others","2","Northeastern China","2022","8-30 days","<200",3.99789837276001,1.17470453330316,0
+"B/F/TAF","25-34","Female","Married","Others","2","Southern China","2022","8-30 days","200-349",4.79970165134789,2.73124766151886,0
+"DTG+TDF+3TC","50+","Female","Others","Homosexual","3","Central China","2022",">30 days","200-349",4.03281729413682,0.700488313566893,0
+"DTG/3TC","35-49","Male","Married","Heterosexual","3","Southwestern China","2022",">30 days",">500",4.85832689801549,0.597482676967047,0
+"B/F/TAF","35-49","Male","Unmarried","Others","4","Northern China","2021","8-30 days",">500",5.12847013149486,2.07436584448442,0
+"DTG/3TC","25-34","Male","Unmarried","Homosexual","1","Southern China","2020","Same-day","200-349",4.28131190174918,1.81813718436752,0
+"DTG/3TC","50+","Male","Married","Heterosexual","3","Northwestern China","2021","1-7 days","350-500",4.72841484382318,0.645318044349551,0
+"B/F/TAF","35-49","Male","Married","Heterosexual","4","Central China","2022","1-7 days","200-349",3.39722155522123,4.44270052353386,1
+"B/F/TAF","18-24","Female","Married","Others","1","Northern China","2022",">30 days","350-500",4.66192266679573,4.51240024983417,0
+"B/F/TAF","25-34","Male","Unmarried","Homosexual","3","Northwestern China","2022","Same-day","350-500",4.65719975778073,0.941087307990529,0
+"B/F/TAF","25-34","Female","Others","Others","3","Central China","2022","Same-day",">500",4.71281668952265,3.38402658095583,0
+"DTG/3TC","18-24","Male","Unmarried","Others","4","Southern China","2022","1-7 days","350-500",5.10816706679737,2.98720085248351,0
+"DTG+TDF+3TC","18-24","Male","Others","Homosexual","1","Northeastern China","2022","Same-day","350-500",4.02321878776681,4.63233306235634,0
+"DTG/3TC","35-49","Female","Unmarried","Homosexual","4","Northeastern China","2023","Same-day","<200",5.19968780338156,0.993779133306816,0
+"DTG+TDF+3TC","35-49","Female","Unmarried","Heterosexual","1","Southwestern China","2022",">30 days","200-349",4.01966154403624,3.04916749149561,0
+"B/F/TAF","35-49","Male","Others","Heterosexual","1","Northwestern China","2021","8-30 days","350-500",3.68251772024427,2.8953399148304,0
+"DTG+TDF+3TC","50+","Male","Married","Others","2","Southern China","2021",">30 days","350-500",5.60295613567937,1.62776094442233,0
+"DTG/3TC","25-34","Female","Unmarried","Homosexual","1","Northwestern China","2021","Same-day","<200",4.90821912785196,4.31157446303405,0
+"DTG+TDF+3TC","35-49","Male","Others","Others","1","Southwestern China","2020","Same-day","350-500",4.88173745272293,3.78483229165431,0
+"B/F/TAF","35-49","Female","Others","Homosexual","3","Southwestern China","2021",">30 days","200-349",4.81560847832027,2.38411889283452,0
+"DTG/3TC","25-34","Male","Married","Heterosexual","3","Northern China","2020","8-30 days","350-500",4.39564417240645,2.32112433807924,0
+"DTG/3TC","35-49","Male","Married","Heterosexual","3","Southern China","2022","1-7 days",">500",5.0043389054504,4.2382218624698,0
+"B/F/TAF","18-24","Female","Others","Homosexual","3","Southern China","2022","8-30 days","<200",5.21798385208181,3.07592302933335,0
+"DTG/3TC","35-49","Male","Others","Others","4","Northern China","2022","Same-day","350-500",3.71915547391527,3.95143406791613,1
+"DTG+TDF+3TC","35-49","Male","Unmarried","Homosexual","4","Southwestern China","2021","1-7 days","350-500",3.92848681947297,0.973546311841346,0
+"B/F/TAF","35-49","Female","Married","Heterosexual","4","Northeastern China","2021",">30 days",">500",4.13870170336974,4.49039253208321,0
+"DTG/3TC","25-34","Male","Unmarried","Others","4","Southwestern China","2022",">30 days",">500",4.76291581712846,0.999809361528605,0
+"B/F/TAF","25-34","Female","Unmarried","Heterosexual","2","Central China","2022",">30 days","<200",3.32792820551578,4.58907055016607,0
+"B/F/TAF","18-24","Male","Others","Heterosexual","1","Central China","2022","Same-day","<200",4.42128525973028,1.37097713095136,0
+"DTG+TDF+3TC","18-24","Female","Unmarried","Others","2","Southwestern China","2022",">30 days",">500",3.77457459585701,4.28649819444399,0
+"DTG/3TC","35-49","Female","Married","Others","1","Northern China","2021","8-30 days","<200",4.32740414976347,4.41571038565598,0
+"DTG/3TC","25-34","Female","Married","Others","1","Northern China","2022","8-30 days",">500",3.69650476329833,3.4335855107056,0
+"B/F/TAF","50+","Male","Others","Homosexual","2","Northeastern China","2023","8-30 days","200-349",5.08522602658322,4.99464941420592,2
+"DTG/3TC","50+","Female","Married","Heterosexual","3","Eastern China","2023","8-30 days","<200",4.36198244919473,2.86175000155345,0
+"B/F/TAF","35-49","Female","Others","Homosexual","3","Northern China","2023","1-7 days","200-349",4.40264706900195,2.12434412084986,0
+"DTG/3TC","35-49","Female","Others","Heterosexual","3","Northern China","2020","Same-day","200-349",5.24604759702121,2.996316762059,1
+"DTG+TDF+3TC","50+","Male","Married","Others","1","Eastern China","2023",">30 days","<200",4.06759255146462,4.36063117638696,0
+"B/F/TAF","18-24","Female","Others","Homosexual","1","Northeastern China","2021",">30 days","200-349",3.72671969768959,3.38816776184831,0
+"DTG+TDF+3TC","25-34","Male","Others","Others","3","Southern China","2022","8-30 days","200-349",4.19031762439648,0.507247049012221,0
+"B/F/TAF","35-49","Female","Married","Heterosexual","4","Southwestern China","2023","8-30 days",">500",4.17363903876733,1.3277005078271,0
+"B/F/TAF","18-24","Male","Married","Homosexual","1","Northern China","2020","8-30 days","200-349",4.67517830720429,1.70178484951612,0
+"DTG/3TC","35-49","Male","Others","Others","4","Central China","2021",">30 days","350-500",4.34210906366863,1.74270436202642,1
+"B/F/TAF","25-34","Male","Others","Heterosexual","3","Southwestern China","2023","8-30 days","200-349",3.79440343740132,2.06447418767493,1
+"DTG+TDF+3TC","25-34","Female","Married","Others","1","Northeastern China","2023",">30 days",">500",4.40800997454278,1.89153862209059,0
+"B/F/TAF","35-49","Female","Unmarried","Others","3","Central China","2021",">30 days","<200",4.79827329099172,2.40028750651982,0
+"B/F/TAF","18-24","Female","Unmarried","Heterosexual","3","Central China","2020",">30 days","<200",3.82828995167535,1.85034690517932,1
+"DTG/3TC","18-24","Male","Others","Homosexual","3","Northeastern China","2020",">30 days","<200",5.00048757709397,3.52139577525668,0
+"B/F/TAF","50+","Female","Others","Homosexual","2","Northern China","2022","1-7 days","200-349",4.85376504084018,2.25118419679347,0
+"DTG+TDF+3TC","35-49","Female","Unmarried","Others","4","Eastern China","2020","1-7 days","200-349",5.25024030988263,1.53044082503766,0
+"B/F/TAF","50+","Male","Married","Others","3","Northeastern China","2021","8-30 days",">500",4.33607053977497,2.6504107034998,1
+"DTG/3TC","50+","Female","Married","Others","1","Southwestern China","2023","Same-day","200-349",4.71130422548298,0.833754763239995,0
+"B/F/TAF","50+","Female","Others","Homosexual","4","Northeastern China","2023","Same-day",">500",4.06340371405639,1.4601438724203,0
+"DTG/3TC","35-49","Female","Married","Heterosexual","4","Northwestern China","2021","8-30 days","200-349",4.37169787368902,4.26446278078947,1
+"DTG+TDF+3TC","25-34","Female","Others","Others","2","Southwestern China","2020","Same-day","200-349",3.97306396253512,0.557288809912279,0
+"DTG/3TC","50+","Female","Unmarried","Homosexual","3","Northeastern China","2023","1-7 days","<200",5.03773972122206,2.9247222332051,0
+"DTG+TDF+3TC","35-49","Male","Married","Homosexual","1","Southwestern China","2023","Same-day","200-349",3.77587000779551,4.90180791122839,0
+"DTG+TDF+3TC","35-49","Male","Married","Heterosexual","2","Northwestern China","2022","8-30 days","350-500",4.80734385778069,0.825013707042672,0
+"DTG/3TC","35-49","Male","Unmarried","Heterosexual","3","Northeastern China","2023","1-7 days","350-500",4.15817716678072,1.43201620131731,0
+"DTG+TDF+3TC","18-24","Female","Others","Homosexual","2","Northwestern China","2022","Same-day","350-500",3.97602954851993,2.64965159643907,0
+"DTG+TDF+3TC","50+","Male","Married","Others","2","Southern China","2022","1-7 days","<200",5.23045883580801,4.30980811524205,0
+"DTG/3TC","18-24","Male","Others","Heterosexual","1","Southwestern China","2023","8-30 days","<200",4.55347911504993,1.26129233813845,0
+"DTG/3TC","35-49","Female","Others","Homosexual","4","Northwestern China","2022","1-7 days","<200",4.66665518500264,1.70781710301526,0
+"B/F/TAF","18-24","Female","Unmarried","Others","2","Southern China","2022","1-7 days",">500",4.59725463505532,4.78131983743515,0
+"DTG+TDF+3TC","18-24","Female","Married","Others","1","Eastern China","2021","1-7 days","<200",4.82628940747375,3.61113053525332,0
+"DTG+TDF+3TC","35-49","Male","Married","Homosexual","2","Northern China","2020",">30 days",">500",5.23745918985803,4.59531873301603,2
+"B/F/TAF","25-34","Female","Unmarried","Homosexual","1","Eastern China","2020","1-7 days","200-349",4.531013193095,2.50509057415184,1
+"DTG+TDF+3TC","25-34","Female","Unmarried","Heterosexual","4","Central China","2021",">30 days","200-349",5.1104555973298,0.503383042989299,0
+"B/F/TAF","18-24","Male","Married","Others","1","Southern China","2022","Same-day","350-500",3.32630875561438,3.76792163122445,0
+"B/F/TAF","25-34","Male","Others","Others","2","Northeastern China","2020",">30 days","200-349",4.81505781318323,4.73916750622448,0
+"DTG+TDF+3TC","50+","Male","Others","Heterosexual","2","Southwestern China","2021","8-30 days",">500",4.71142409888195,0.645042311167344,0
+"DTG/3TC","35-49","Female","Others","Heterosexual","3","Southwestern China","2022","1-7 days","<200",4.59044378245039,1.42705272429157,0
+"DTG/3TC","18-24","Male","Married","Homosexual","3","Northwestern China","2021",">30 days","200-349",4.56354971868138,3.17270420596469,0
+"B/F/TAF","18-24","Female","Married","Homosexual","1","Southwestern China","2021","1-7 days",">500",4.27118730463842,2.67779754009098,0
+"DTG+TDF+3TC","18-24","Male","Others","Heterosexual","2","Eastern China","2020","Same-day","200-349",4.18846196604765,2.48294636968058,0
+"B/F/TAF","50+","Male","Unmarried","Homosexual","1","Southwestern China","2020","8-30 days","<200",5.0478237733526,2.53598177339882,0
+"DTG+TDF+3TC","18-24","Male","Others","Heterosexual","4","Northern China","2023","Same-day","200-349",4.4066716123257,4.62798554415349,0
+"B/F/TAF","50+","Female","Unmarried","Others","4","Northern China","2020","Same-day","350-500",5.09074040476185,2.73962829902302,0
+"DTG/3TC","18-24","Male","Others","Heterosexual","2","Northern China","2022","1-7 days","350-500",4.30653060246431,2.16590422659647,0
+"DTG/3TC","18-24","Female","Others","Heterosexual","2","Southern China","2022","8-30 days","<200",3.99325940815044,4.14832254266366,1
+"DTG+TDF+3TC","25-34","Male","Others","Others","4","Southern China","2023","8-30 days","350-500",5.22328106788714,2.07043507974595,0
+"DTG/3TC","25-34","Male","Married","Homosexual","2","Northeastern China","2020","8-30 days","<200",4.45075493699723,0.815400944440626,0
+"B/F/TAF","25-34","Male","Unmarried","Homosexual","4","Northwestern China","2020",">30 days",">500",5.10864036646826,0.648324723122641,0
+"DTG+TDF+3TC","50+","Male","Unmarried","Heterosexual","1","Northeastern China","2020","1-7 days",">500",3.88399826014597,4.74291491368786,1
+"DTG+TDF+3TC","35-49","Female","Others","Others","3","Eastern China","2020","1-7 days","200-349",4.67895901702362,3.04351961321663,0
+"DTG/3TC","25-34","Male","Unmarried","Homosexual","4","Northeastern China","2021","8-30 days",">500",4.34214997291477,4.28644867625553,1
+"DTG+TDF+3TC","50+","Female","Married","Heterosexual","1","Southern China","2020",">30 days","<200",5.47702602791672,3.79404879873618,1
+"B/F/TAF","25-34","Female","Married","Homosexual","1","Southwestern China","2023","8-30 days","<200",5.15384499678147,4.91481169429608,0
+"DTG/3TC","25-34","Female","Others","Homosexual","3","Eastern China","2023","Same-day","<200",4.78014242220253,2.33267919393256,1
+"DTG/3TC","18-24","Female","Married","Others","2","Northern China","2021",">30 days","200-349",4.24654463865929,4.13728228432592,0
+"DTG/3TC","25-34","Female","Unmarried","Homosexual","2","Northwestern China","2020",">30 days","<200",4.99175039486315,1.75928754045162,0
+"DTG+TDF+3TC","50+","Male","Unmarried","Heterosexual","1","Eastern China","2020","1-7 days",">500",4.86084842835548,2.95541422918905,0
+"DTG+TDF+3TC","35-49","Male","Married","Others","4","Northwestern China","2020","1-7 days","<200",3.77662697093923,3.38315264077391,1
+"DTG/3TC","50+","Male","Others","Homosexual","1","Southwestern China","2021","Same-day","200-349",5.09398560161879,4.58891013311222,0
+"B/F/TAF","18-24","Male","Unmarried","Heterosexual","4","Southern China","2022",">30 days","350-500",4.92850295256531,1.0210163728334,0
+"B/F/TAF","35-49","Female","Unmarried","Homosexual","4","Southern China","2023",">30 days",">500",4.40621487133316,4.14919335430022,0
+"DTG/3TC","35-49","Male","Unmarried","Others","4","Southern China","2022","8-30 days",">500",5.65599072936895,3.30581540917046,0
+"DTG+TDF+3TC","35-49","Male","Unmarried","Homosexual","4","Eastern China","2021","8-30 days",">500",4.97642423675068,3.50561780540738,1
+"DTG+TDF+3TC","18-24","Male","Unmarried","Others","1","Northwestern China","2022",">30 days",">500",4.24303507896326,4.29945606563706,1
+"DTG+TDF+3TC","50+","Female","Unmarried","Others","1","Northeastern China","2022",">30 days","350-500",4.96557040191215,0.822848863666877,0
+"DTG+TDF+3TC","35-49","Male","Others","Homosexual","1","Eastern China","2022","8-30 days","<200",4.70464921467961,2.45617416547611,0
+"DTG+TDF+3TC","25-34","Female","Unmarried","Homosexual","2","Central China","2021","1-7 days","200-349",4.41252720277714,3.88114499219228,0
+"DTG+TDF+3TC","50+","Male","Married","Others","2","Northwestern China","2021","8-30 days",">500",2.8689253328043,2.07005069509614,0
+"DTG/3TC","18-24","Male","Others","Homosexual","4","Central China","2023","8-30 days","200-349",4.28420360912082,0.738938133930787,0
+"DTG+TDF+3TC","35-49","Female","Others","Homosexual","4","Northwestern China","2021","1-7 days",">500",4.51214484567297,2.13570273434743,0
+"B/F/TAF","25-34","Female","Others","Homosexual","2","Northwestern China","2020","8-30 days","350-500",4.86169750277498,3.94457193056587,0
+"DTG+TDF+3TC","25-34","Male","Married","Homosexual","2","Central China","2023","1-7 days",">500",4.67631597512002,3.5892021113541,1
+"DTG+TDF+3TC","35-49","Male","Married","Heterosexual","1","Southwestern China","2022","Same-day","350-500",4.61337288683597,3.80996656301431,2
+"DTG+TDF+3TC","35-49","Male","Unmarried","Others","4","Eastern China","2022","1-7 days","<200",5.25660525913503,0.956831725081429,0
+"DTG/3TC","35-49","Male","Others","Homosexual","1","Southern China","2021","1-7 days","200-349",4.47355431306413,2.77269438945223,0
+"DTG+TDF+3TC","18-24","Female","Married","Others","4","Eastern China","2022","1-7 days","200-349",3.97215951261322,1.39908060245216,0
+"DTG/3TC","18-24","Male","Unmarried","Homosexual","4","Northern China","2021","8-30 days",">500",4.24823632608888,1.09945597767364,0
+"DTG+TDF+3TC","50+","Male","Unmarried","Homosexual","2","Northeastern China","2023","8-30 days","<200",4.40786554281299,0.804605517303571,0
+"DTG/3TC","35-49","Male","Others","Others","4","Northwestern China","2023","Same-day",">500",4.2126574877258,1.47057389572728,0
+"B/F/TAF","35-49","Female","Married","Homosexual","3","Northeastern China","2021",">30 days","<200",3.56769147661804,2.27643916546367,0
+"DTG/3TC","18-24","Male","Married","Others","3","Northern China","2022","1-7 days",">500",4.79772893172186,4.79053279687651,1
+"DTG/3TC","35-49","Female","Unmarried","Others","3","Central China","2023","1-7 days","200-349",4.89576587409317,2.6821522541577,0
+"DTG/3TC","50+","Female","Unmarried","Homosexual","4","Eastern China","2023","8-30 days","350-500",4.13192129196077,1.52960125065874,0
+"B/F/TAF","50+","Female","Others","Homosexual","4","Eastern China","2020",">30 days","<200",4.71811190085511,2.90436862851493,0
+"DTG/3TC","25-34","Female","Others","Others","3","Eastern China","2022","Same-day","200-349",4.34216401371599,4.05208579159807,0
+"DTG/3TC","35-49","Female","Unmarried","Homosexual","1","Northwestern China","2023","Same-day","200-349",4.35230661760944,2.44996499305125,0
+"DTG+TDF+3TC","50+","Male","Married","Heterosexual","1","Northwestern China","2022",">30 days",">500",4.80205937028119,1.47783458838239,0
+"DTG+TDF+3TC","35-49","Female","Unmarried","Others","1","Northwestern China","2020","1-7 days","200-349",4.70905745253583,0.65155782434158,0
+"DTG+TDF+3TC","18-24","Male","Married","Others","4","Central China","2022","Same-day",">500",4.208179665431,2.56372723390814,0
+"DTG/3TC","18-24","Female","Unmarried","Homosexual","2","Southern China","2022","8-30 days","350-500",4.13405308379761,0.953570308745839,0
+"DTG/3TC","18-24","Male","Others","Others","1","Central China","2022","1-7 days",">500",4.7716565105716,3.18056929775048,0
+"DTG/3TC","18-24","Female","Others","Heterosexual","1","Southern China","2021","Same-day",">500",4.00046499916139,2.22640543233138,1
+"DTG+TDF+3TC","25-34","Male","Married","Homosexual","2","Northern China","2021","Same-day","<200",4.14785638742691,3.23567385703791,0
+"B/F/TAF","25-34","Female","Married","Heterosexual","3","Southern China","2022","Same-day","<200",5.19155598002915,3.23893169325311,0
+"DTG+TDF+3TC","35-49","Female","Others","Heterosexual","4","Northern China","2023","Same-day","350-500",4.58015210161597,0.542201221804135,0
+"B/F/TAF","35-49","Female","Unmarried","Heterosexual","1","Northeastern China","2021","8-30 days",">500",4.27810557045093,3.08546532841865,0
+"DTG/3TC","25-34","Male","Married","Others","1","Southwestern China","2021",">30 days",">500",3.91105431889049,4.21518166817259,0
+"DTG/3TC","18-24","Male","Married","Others","4","Northeastern China","2021","Same-day","350-500",4.8586552061713,1.16219611337874,0
+"DTG+TDF+3TC","50+","Male","Married","Homosexual","2","Central China","2021","8-30 days","350-500",4.22310239420927,4.41443045751657,0
+"B/F/TAF","50+","Female","Unmarried","Homosexual","4","Northwestern China","2021","1-7 days","350-500",4.54844079062302,4.30939949117601,1
+"DTG/3TC","50+","Male","Married","Heterosexual","2","Central China","2021","Same-day","350-500",5.09506214147734,1.67297038307879,0
+"B/F/TAF","18-24","Male","Unmarried","Others","2","Southwestern China","2021","Same-day","<200",4.3902422060435,2.83140974480193,0
+"DTG/3TC","35-49","Male","Others","Heterosexual","1","Northwestern China","2020",">30 days","<200",5.01557462735572,1.04139386804309,0
+"DTG+TDF+3TC","25-34","Female","Others","Others","4","Eastern China","2022","1-7 days","200-349",3.926952478155,2.13556318508927,0
+"DTG+TDF+3TC","18-24","Male","Others","Homosexual","4","Eastern China","2020",">30 days",">500",3.61854635073025,2.4339127317071,1
+"B/F/TAF","50+","Male","Married","Homosexual","2","Eastern China","2023","Same-day",">500",4.66362498487267,3.22657557879575,1
+"DTG/3TC","18-24","Male","Married","Heterosexual","2","Central China","2020","Same-day","200-349",5.09518919248898,4.36808463186026,0
+"DTG+TDF+3TC","25-34","Male","Others","Others","2","Southwestern China","2020",">30 days","350-500",4.23682579927963,4.11400393710937,0
+"B/F/TAF","35-49","Male","Others","Homosexual","2","Southwestern China","2023","8-30 days","350-500",4.37243300296161,1.51627365581226,0
+"DTG/3TC","18-24","Female","Unmarried","Others","4","Southwestern China","2021","1-7 days","350-500",4.96305495036055,3.76894050603732,0
+"DTG/3TC","50+","Male","Married","Heterosexual","1","Central China","2021","1-7 days","350-500",4.27269447960532,2.82254761725198,1
+"DTG/3TC","25-34","Female","Married","Heterosexual","2","Northeastern China","2022","Same-day","200-349",3.93988924098742,2.05731041287072,0
+"B/F/TAF","50+","Male","Others","Others","4","Northwestern China","2023",">30 days","350-500",4.08711757266917,1.17381672211923,0
+"DTG+TDF+3TC","50+","Female","Married","Others","1","Eastern China","2020",">30 days",">500",4.41350318289952,1.03454443346709,0
+"DTG+TDF+3TC","50+","Female","Unmarried","Heterosexual","4","Southern China","2022","1-7 days","350-500",3.72559174442186,4.09746130194981,1
+"B/F/TAF","18-24","Female","Others","Heterosexual","4","Central China","2021","1-7 days","<200",4.90437652188296,4.12660902447533,0
+"DTG+TDF+3TC","25-34","Male","Married","Others","2","Northern China","2023","Same-day","<200",4.78699705216959,1.23624298383947,0
+"DTG/3TC","35-49","Male","Unmarried","Homosexual","2","Southern China","2020","Same-day",">500",4.92131533193346,1.16590060340241,0
+"DTG/3TC","25-34","Female","Unmarried","Heterosexual","4","Central China","2020","Same-day","350-500",5.27276958704838,3.80386161745992,0
+"B/F/TAF","18-24","Female","Married","Homosexual","4","Northern China","2022","1-7 days","<200",4.99373291238329,1.60796915041283,0
+"DTG+TDF+3TC","50+","Female","Married","Heterosexual","2","Southwestern China","2022",">30 days",">500",5.22399944669356,2.73157614306547,0
+"B/F/TAF","35-49","Female","Unmarried","Others","2","Southern China","2023",">30 days","350-500",4.32487325362289,4.43291203118861,0
+"DTG+TDF+3TC","35-49","Male","Unmarried","Homosexual","2","Northwestern China","2022","8-30 days",">500",5.08023408533845,0.819140033912845,0
+"DTG/3TC","50+","Female","Others","Homosexual","2","Eastern China","2022",">30 days","350-500",3.82494338654379,1.84568394976668,0
+"DTG/3TC","50+","Female","Others","Others","4","Central China","2022","8-30 days","<200",4.80674562124507,3.24612114811316,0
+"B/F/TAF","18-24","Female","Unmarried","Homosexual","2","Southern China","2021",">30 days",">500",5.3289700294995,2.29576373228338,0
+"DTG/3TC","25-34","Female","Married","Homosexual","2","Northwestern China","2022","Same-day","<200",5.52870998568831,2.16378110623918,0
+"DTG+TDF+3TC","18-24","Female","Others","Heterosexual","2","Central China","2022",">30 days","350-500",4.64547798088384,3.56864153861534,0
+"B/F/TAF","18-24","Female","Married","Homosexual","1","Northern China","2022","Same-day","350-500",4.8822556573103,4.86680861969944,0
+"B/F/TAF","18-24","Female","Others","Homosexual","4","Eastern China","2023","Same-day","<200",3.96069050199991,4.59090324910358,0
+"DTG+TDF+3TC","35-49","Female","Unmarried","Others","1","Northwestern China","2023","Same-day","200-349",3.73311999122476,2.22825745574664,1
+"DTG/3TC","50+","Male","Married","Homosexual","3","Northeastern China","2020",">30 days",">500",4.49382957222881,1.23135054763407,1
+"B/F/TAF","35-49","Female","Others","Heterosexual","4","Central China","2020","Same-day",">500",4.64645040129588,1.07049481116701,0
+"DTG+TDF+3TC","25-34","Female","Others","Others","3","Southern China","2023",">30 days","<200",4.43377449371978,3.97091564768925,0
+"DTG+TDF+3TC","25-34","Female","Married","Homosexual","3","Southwestern China","2023","8-30 days","350-500",4.09880507891242,4.99229089543223,0
+"B/F/TAF","25-34","Male","Others","Others","2","Southwestern China","2022","Same-day",">500",3.88889231544234,2.69858226797078,1
+"DTG+TDF+3TC","50+","Female","Married","Others","3","Southern China","2020","8-30 days",">500",4.97062209651895,1.90874017647002,0
+"B/F/TAF","50+","Female","Others","Homosexual","1","Northeastern China","2022",">30 days","350-500",5.0029899550582,4.65059528057463,0
+"B/F/TAF","50+","Male","Married","Heterosexual","3","Northwestern China","2022","1-7 days","350-500",4.42043103012375,4.59990248887334,0
+"DTG+TDF+3TC","35-49","Male","Unmarried","Others","1","Southern China","2022","8-30 days","<200",5.34054734607308,4.24230378435459,0
+"B/F/TAF","25-34","Male","Unmarried","Others","2","Northeastern China","2021","8-30 days","350-500",4.50766150456626,1.3710557668237,0
+"DTG/3TC","50+","Male","Others","Heterosexual","1","Southwestern China","2021",">30 days","<200",4.98855939691598,2.6667099208571,0
+"B/F/TAF","50+","Female","Others","Others","4","Southwestern China","2021","Same-day",">500",4.16429822087289,3.10372883325908,0
+"B/F/TAF","18-24","Female","Married","Heterosexual","2","Southwestern China","2020",">30 days","<200",4.80288306521464,1.51341091841459,0
+"DTG+TDF+3TC","18-24","Female","Married","Homosexual","3","Northeastern China","2020","1-7 days","<200",4.83007628818002,1.49172872549389,0
+"B/F/TAF","50+","Male","Married","Others","1","Northwestern China","2023",">30 days","350-500",4.64483964292321,0.936922762542963,0
+"DTG+TDF+3TC","18-24","Male","Married","Heterosexual","1","Central China","2020","8-30 days","350-500",5.04547567246162,1.34536102693528,0
+"B/F/TAF","18-24","Female","Married","Others","3","Northwestern China","2021",">30 days",">500",4.43329901688181,1.20317045296542,0
+"B/F/TAF","35-49","Male","Unmarried","Homosexual","2","Eastern China","2022",">30 days","350-500",3.49696084516498,3.44060854497366,2
+"B/F/TAF","25-34","Female","Unmarried","Others","2","Southern China","2021","Same-day","350-500",4.33163237740566,1.98118497082032,0
+"DTG/3TC","50+","Female","Others","Heterosexual","2","Southwestern China","2022","8-30 days","200-349",4.87963432064995,3.28827229957096,0
+"DTG/3TC","25-34","Female","Others","Homosexual","2","Southwestern China","2022","Same-day","350-500",3.56294769467885,1.01123198866844,0
+"DTG+TDF+3TC","18-24","Female","Married","Others","4","Northeastern China","2022","Same-day","350-500",3.6424430978372,1.59090295119677,0
+"B/F/TAF","35-49","Male","Married","Homosexual","4","Northeastern China","2023",">30 days",">500",4.51139721157259,2.49335626594257,0
+"DTG+TDF+3TC","18-24","Male","Others","Homosexual","2","Southern China","2022","8-30 days","200-349",4.56030942020324,2.97244311426766,0
+"DTG/3TC","50+","Female","Unmarried","Others","3","Northeastern China","2023","8-30 days","200-349",5.10952556367571,1.83230780588929,1
+"DTG+TDF+3TC","35-49","Male","Others","Heterosexual","1","Central China","2022",">30 days","200-349",4.46926777247711,2.14953702467028,0
+"DTG/3TC","25-34","Male","Married","Others","1","Eastern China","2022","Same-day",">500",4.75398384558306,4.89217705524061,0
+"DTG+TDF+3TC","25-34","Female","Unmarried","Others","4","Northern China","2021",">30 days","<200",4.63664167709875,3.37701409950387,1
+"DTG/3TC","25-34","Male","Others","Homosexual","1","Eastern China","2023","8-30 days","<200",4.87224939379179,4.38925401680171,0
+"B/F/TAF","35-49","Male","Married","Homosexual","2","Central China","2020","Same-day","200-349",4.95807641951636,3.07305629900657,0
+"B/F/TAF","18-24","Female","Married","Others","3","Eastern China","2020",">30 days","<200",3.83314849302105,3.62467098119669,0
+"B/F/TAF","18-24","Male","Others","Homosexual","2","Eastern China","2021","8-30 days",">500",4.15825226337573,1.83038798964117,0
+"B/F/TAF","18-24","Female","Unmarried","Homosexual","1","Southwestern China","2020",">30 days",">500",4.95933531499802,1.79714347573463,0
+"DTG/3TC","25-34","Male","Others","Heterosexual","1","Southern China","2020","8-30 days","<200",3.4165040964742,4.68926733767148,0
+"DTG+TDF+3TC","50+","Female","Unmarried","Heterosexual","2","Southern China","2022","Same-day","200-349",3.21556765241066,4.90165078511927,0
+"B/F/TAF","50+","Female","Married","Heterosexual","1","Eastern China","2023","Same-day","200-349",4.56810725644589,4.00145087589044,0
+"DTG+TDF+3TC","18-24","Male","Unmarried","Others","3","Southern China","2021",">30 days","350-500",4.51676849774289,2.25611231476068,1
+"B/F/TAF","50+","Male","Unmarried","Homosexual","4","Southern China","2020",">30 days","350-500",4.32628793690753,4.46748935990036,0
+"DTG/3TC","25-34","Female","Unmarried","Others","2","Northern China","2021",">30 days","200-349",4.92414218335435,2.68383573740721,0
+"DTG/3TC","25-34","Male","Unmarried","Heterosexual","3","Southern China","2022","8-30 days","<200",5.09613165767044,2.46035115176346,0
+"B/F/TAF","25-34","Male","Unmarried","Homosexual","2","Eastern China","2020","8-30 days","<200",4.99676940768618,0.620552557869814,0
+"DTG+TDF+3TC","50+","Male","Married","Others","3","Northeastern China","2023","1-7 days","350-500",4.41169577373253,2.04832723597065,0
+"DTG/3TC","35-49","Male","Others","Homosexual","3","Eastern China","2020","8-30 days","200-349",4.48644159913831,4.38415990571957,0
+"B/F/TAF","18-24","Female","Married","Others","2","Central China","2021","Same-day","200-349",4.65248168723732,4.57850635878276,0
+"DTG/3TC","25-34","Male","Married","Homosexual","2","Northern China","2021","1-7 days","200-349",3.43689561248403,2.65172059799079,0
+"DTG+TDF+3TC","50+","Female","Married","Homosexual","3","Central China","2020",">30 days","350-500",3.99790955717103,2.21372338337824,1
+"B/F/TAF","50+","Male","Unmarried","Heterosexual","1","Northwestern China","2023",">30 days",">500",4.8984315615899,1.19717379636131,0
+"B/F/TAF","50+","Male","Unmarried","Others","4","Southwestern China","2021","8-30 days",">500",4.62355978158871,1.24768543732353,0
+"B/F/TAF","35-49","Male","Others","Heterosexual","2","Northwestern China","2022",">30 days","<200",3.84866285802524,2.73612532566767,0
+"B/F/TAF","18-24","Male","Married","Homosexual","2","Northwestern China","2021","8-30 days","350-500",5.14448924908093,3.86926763318479,0
+"B/F/TAF","35-49","Male","Others","Homosexual","4","Northeastern China","2020",">30 days","350-500",4.74489031302947,4.36694365576841,0
+"DTG/3TC","18-24","Female","Others","Heterosexual","4","Northern China","2021",">30 days","200-349",4.19882327291157,2.71878278453369,0
+"DTG+TDF+3TC","35-49","Male","Married","Others","1","Central China","2022","1-7 days","<200",4.50564601428074,2.89643777126912,1
+"DTG+TDF+3TC","25-34","Female","Unmarried","Homosexual","2","Eastern China","2022",">30 days",">500",4.53341586780279,1.33769549045246,0
+"DTG+TDF+3TC","50+","Female","Unmarried","Heterosexual","2","Northwestern China","2023","Same-day",">500",4.35106536436699,3.2864340916276,0
+"DTG/3TC","18-24","Male","Married","Others","4","Central China","2022","1-7 days","<200",4.40858338384961,1.47910534881521,0
+"B/F/TAF","25-34","Female","Married","Others","3","Northeastern China","2022","Same-day",">500",4.42585491323343,4.34921322215814,0
+"DTG+TDF+3TC","25-34","Female","Others","Heterosexual","4","Eastern China","2023","1-7 days","350-500",4.83004672965931,3.1527609488694,0
+"DTG+TDF+3TC","18-24","Female","Unmarried","Homosexual","3","Northern China","2020","1-7 days",">500",4.99982721815534,1.30815627123229,0
+"B/F/TAF","25-34","Female","Married","Others","4","Northwestern China","2023","Same-day","200-349",4.77605473123801,0.885624999646097,0
+"DTG+TDF+3TC","50+","Female","Unmarried","Heterosexual","2","Northern China","2023","1-7 days","350-500",5.37294248946777,2.3070708620362,0
+"B/F/TAF","18-24","Female","Married","Heterosexual","2","Southwestern China","2020","1-7 days","350-500",4.81024200714941,0.904994116281159,0
+"B/F/TAF","25-34","Male","Others","Homosexual","1","Central China","2020","Same-day","200-349",4.66131188107881,3.89750036410987,0
+"DTG+TDF+3TC","35-49","Male","Unmarried","Homosexual","2","Southern China","2020","1-7 days","<200",4.92022268468073,2.67778856202494,1
+"DTG/3TC","25-34","Female","Others","Heterosexual","3","Northwestern China","2020",">30 days","200-349",4.43214421798956,0.866696520708501,0
+"B/F/TAF","35-49","Female","Married","Homosexual","3","Northern China","2020","8-30 days","200-349",4.86615304385722,4.67168394045439,0
+"DTG/3TC","35-49","Female","Married","Homosexual","2","Northeastern China","2020",">30 days","350-500",5.50258603902627,4.47978905052878,0
+"B/F/TAF","25-34","Female","Others","Homosexual","1","Southwestern China","2022","8-30 days","350-500",4.39595569356314,4.5899669486098,0
+"DTG+TDF+3TC","25-34","Female","Unmarried","Heterosexual","3","Northeastern China","2022","1-7 days","350-500",5.01723353238293,1.13245832792018,0
+"B/F/TAF","25-34","Male","Married","Others","3","Eastern China","2021","1-7 days",">500",4.51241859117343,1.03652468533255,0
+"DTG+TDF+3TC","18-24","Male","Unmarried","Others","2","Northern China","2021","1-7 days",">500",4.12605331061968,3.22668330930173,0
+"DTG+TDF+3TC","35-49","Male","Married","Others","1","Northern China","2021","8-30 days","200-349",5.0668451475201,1.65912968164776,0
+"DTG+TDF+3TC","18-24","Female","Married","Homosexual","1","Northern China","2023",">30 days",">500",4.72958189213392,3.06664345995523,0
+"DTG/3TC","35-49","Male","Others","Homosexual","1","Northern China","2021","1-7 days",">500",4.34159481574924,1.97508919821121,0
+"B/F/TAF","25-34","Female","Married","Homosexual","4","Northern China","2020","Same-day","<200",5.38079592716383,1.74270644597709,0
+"B/F/TAF","25-34","Male","Others","Heterosexual","4","Eastern China","2021","1-7 days","350-500",3.57170907086683,1.83990813640412,0
+"B/F/TAF","50+","Female","Others","Others","1","Eastern China","2020",">30 days","<200",4.46857231701189,3.1354111552937,1
+"B/F/TAF","25-34","Female","Married","Homosexual","4","Southwestern China","2021","Same-day","350-500",4.3957874461834,3.94396438612603,0
+"DTG/3TC","25-34","Male","Others","Heterosexual","2","Northern China","2023","8-30 days",">500",4.43458268244354,2.40699811163358,0
+"B/F/TAF","35-49","Female","Unmarried","Others","1","Northeastern China","2020","8-30 days",">500",4.56061105959462,0.925148097565398,0
+"DTG+TDF+3TC","25-34","Female","Unmarried","Homosexual","2","Eastern China","2023","8-30 days","200-349",5.43086817254719,4.16445894259959,0
+"B/F/TAF","35-49","Female","Married","Homosexual","4","Northern China","2021","1-7 days","350-500",3.46225147693784,0.991839873138815,0
+"DTG+TDF+3TC","35-49","Male","Married","Heterosexual","2","Northeastern China","2022","1-7 days","350-500",5.01860037266979,0.901729110395536,0
+"DTG+TDF+3TC","50+","Female","Others","Others","2","Central China","2022","1-7 days","200-349",4.11982964977874,1.58470734592993,0
+"B/F/TAF","35-49","Female","Others","Homosexual","1","Northwestern China","2023","1-7 days",">500",4.97108584046866,4.56261518190149,0
+"B/F/TAF","18-24","Male","Others","Others","3","Southern China","2022","8-30 days","200-349",4.27629559043089,4.44315899373032,0
+"B/F/TAF","18-24","Male","Married","Heterosexual","4","Central China","2022","Same-day","200-349",4.93085407884918,2.30090102064423,0
+"B/F/TAF","25-34","Female","Married","Homosexual","3","Northwestern China","2020","1-7 days","200-349",4.38903769863381,3.25936690415256,0
+"DTG/3TC","25-34","Female","Unmarried","Homosexual","1","Northwestern China","2023","Same-day","200-349",4.19477412613938,1.5309950542869,0
+"B/F/TAF","18-24","Male","Married","Heterosexual","3","Northeastern China","2022","Same-day","200-349",3.88588609543505,3.61831195186824,0
+"B/F/TAF","18-24","Male","Married","Homosexual","1","Northwestern China","2021",">30 days","350-500",4.00119781404005,1.14756117423531,0
+"B/F/TAF","35-49","Female","Unmarried","Others","3","Northeastern China","2021",">30 days",">500",4.31855768854181,3.16908185230568,0
+"DTG+TDF+3TC","35-49","Male","Married","Heterosexual","3","Southern China","2022","8-30 days",">500",4.47982536506371,4.36959556106012,1
+"DTG+TDF+3TC","18-24","Female","Married","Others","3","Northern China","2020","Same-day","200-349",4.75716582466529,2.18300468369853,0
+"DTG/3TC","25-34","Male","Others","Homosexual","1","Northwestern China","2023","Same-day","350-500",4.46187487460266,0.77879281679634,0
+"DTG+TDF+3TC","18-24","Male","Unmarried","Others","3","Northern China","2020","1-7 days","<200",5.11621048884441,4.37383732479066,0
+"DTG/3TC","18-24","Male","Unmarried","Homosexual","4","Northwestern China","2021","8-30 days",">500",3.88006666769938,2.99689711874817,0
+"B/F/TAF","25-34","Male","Unmarried","Heterosexual","1","Northeastern China","2021","8-30 days","<200",4.7774376680467,4.95133491326123,2
+"B/F/TAF","50+","Male","Married","Heterosexual","1","Southern China","2023",">30 days","350-500",4.95833341102739,1.73988922964782,0
+"B/F/TAF","25-34","Male","Others","Others","2","Northern China","2023",">30 days","350-500",4.75513257439091,2.49820632429328,0
+"B/F/TAF","50+","Female","Married","Homosexual","1","Central China","2022","8-30 days",">500",4.43548143264742,1.49491028115153,0
+"B/F/TAF","25-34","Female","Married","Homosexual","2","Northwestern China","2023","8-30 days",">500",4.24731505612487,2.14208238106221,0
+"DTG/3TC","18-24","Female","Married","Heterosexual","3","Central China","2023","1-7 days",">500",3.79519453725888,2.4626556544099,0
+"B/F/TAF","25-34","Male","Unmarried","Heterosexual","3","Central China","2021","1-7 days","<200",3.72817064846706,3.49085391068365,0
+"B/F/TAF","25-34","Female","Married","Homosexual","2","Eastern China","2023","Same-day",">500",4.84931011259569,2.8554647078272,0
+"DTG/3TC","18-24","Male","Unmarried","Homosexual","1","Central China","2020","8-30 days","<200",4.34093696443492,3.73458878567908,2
+"DTG/3TC","50+","Male","Others","Homosexual","3","Eastern China","2023","1-7 days","350-500",3.74285263608838,2.10224480251782,0
+"DTG+TDF+3TC","35-49","Male","Others","Heterosexual","3","Northern China","2022","8-30 days","350-500",4.75768969287799,2.66186227544677,0
+"B/F/TAF","25-34","Male","Married","Homosexual","1","Eastern China","2021","8-30 days","<200",4.89480339825988,1.5229767926503,0
+"B/F/TAF","18-24","Female","Unmarried","Heterosexual","2","Southern China","2022",">30 days","200-349",3.42449841234808,4.44536143413279,0
+"B/F/TAF","25-34","Male","Others","Others","1","Central China","2021",">30 days","200-349",5.41910939316393,3.95156410266645,0
+"DTG+TDF+3TC","35-49","Male","Married","Others","4","Northeastern China","2020",">30 days","200-349",5.11754274881087,3.23494552308694,0
+"B/F/TAF","50+","Female","Married","Others","4","Eastern China","2021","1-7 days","350-500",3.86687018402298,3.85579340951517,0
+"DTG+TDF+3TC","18-24","Male","Others","Others","4","Northwestern China","2023","1-7 days","350-500",4.09788949097538,4.35168752958998,0
+"B/F/TAF","25-34","Male","Unmarried","Heterosexual","3","Southern China","2021","1-7 days","<200",4.60417474167339,4.77683454169892,1
+"B/F/TAF","50+","Male","Married","Heterosexual","2","Northeastern China","2020","8-30 days",">500",4.68220597834052,4.96403871849179,0
+"DTG/3TC","35-49","Female","Married","Others","1","Eastern China","2020",">30 days","200-349",3.90473339334568,1.22627128195018,0
+"DTG/3TC","25-34","Female","Unmarried","Others","1","Southern China","2021","1-7 days","200-349",4.18144750964482,1.90307491202839,0
+"DTG+TDF+3TC","25-34","Female","Others","Others","2","Eastern China","2020","1-7 days","350-500",6.04186976945579,1.20513805968221,0
+"DTG+TDF+3TC","35-49","Female","Others","Others","3","Northwestern China","2020","Same-day","<200",4.96874908591615,2.5965049250517,1
+"B/F/TAF","18-24","Female","Unmarried","Others","2","Central China","2022",">30 days","350-500",5.19526899341287,1.43364773981739,0
+"DTG/3TC","25-34","Female","Others","Homosexual","3","Eastern China","2022","8-30 days","<200",4.10328758323999,1.93382707226556,0
+"B/F/TAF","18-24","Male","Unmarried","Others","4","Southwestern China","2022",">30 days","200-349",4.3461836383524,1.06526958092581,0
+"B/F/TAF","35-49","Female","Others","Homosexual","4","Eastern China","2021","1-7 days","200-349",3.82431107892848,1.80530622252263,0
+"DTG+TDF+3TC","50+","Female","Others","Homosexual","1","Eastern China","2020","8-30 days","200-349",4.68121864076967,4.89370746188797,0
+"B/F/TAF","50+","Male","Others","Others","2","Southwestern China","2020",">30 days","350-500",4.47487551161772,1.34385782165918,0
+"DTG+TDF+3TC","18-24","Male","Married","Homosexual","1","Central China","2023","8-30 days","350-500",5.65590972296922,0.527199698030017,0
+"DTG+TDF+3TC","50+","Male","Married","Heterosexual","2","Northern China","2020","1-7 days","350-500",4.3409183345031,2.74369513243437,0
+"DTG+TDF+3TC","50+","Female","Unmarried","Heterosexual","2","Eastern China","2020","1-7 days","350-500",4.50535218758495,0.855517067248002,0
+"DTG+TDF+3TC","50+","Male","Others","Heterosexual","2","Southwestern China","2021",">30 days","<200",4.02940710541206,1.00756576622371,0
+"DTG/3TC","35-49","Female","Married","Heterosexual","3","Southwestern China","2020","1-7 days","350-500",4.61517095530529,1.50721881783102,0
+"DTG/3TC","18-24","Male","Others","Heterosexual","4","Eastern China","2021","Same-day","<200",4.10807452443853,0.669115615892224,0
+"DTG/3TC","18-24","Male","Others","Heterosexual","2","Southern China","2023","Same-day","350-500",3.98077533919569,2.32388122985139,0
+"DTG/3TC","50+","Female","Others","Others","1","Northwestern China","2020",">30 days","200-349",4.44790262569461,2.71244029270019,2
+"B/F/TAF","25-34","Male","Others","Homosexual","1","Northeastern China","2023","8-30 days","350-500",4.0483486946811,2.48536889057141,0
+"DTG/3TC","35-49","Male","Married","Heterosexual","3","Northern China","2020","8-30 days","200-349",4.06875541011281,1.34191928338259,0
+"DTG/3TC","50+","Female","Married","Heterosexual","3","Northwestern China","2021",">30 days","<200",4.75488204238767,4.3020597047871,0
+"DTG/3TC","50+","Female","Married","Others","3","Southwestern China","2022","1-7 days",">500",5.04443998355283,0.906118207029067,0
+"DTG+TDF+3TC","50+","Male","Unmarried","Heterosexual","1","Northwestern China","2021","Same-day","200-349",4.93449175077016,4.54940041271038,0
+"DTG/3TC","35-49","Female","Married","Others","2","Southwestern China","2021","8-30 days","200-349",4.49741337385318,1.88106753793545,0
+"DTG/3TC","35-49","Male","Unmarried","Homosexual","2","Central China","2023","1-7 days","350-500",4.54552026982694,1.16965513862669,0
+"DTG/3TC","35-49","Male","Married","Heterosexual","2","Northern China","2020","Same-day",">500",4.12122716339793,1.66138079890516,0
+"B/F/TAF","35-49","Male","Others","Homosexual","4","Northern China","2023",">30 days",">500",4.64757350203113,3.15071547636762,0
+"B/F/TAF","50+","Male","Married","Homosexual","1","Central China","2023",">30 days","200-349",4.99935229191843,2.59210907574743,0
+"DTG/3TC","25-34","Male","Unmarried","Heterosexual","4","Eastern China","2023",">30 days","350-500",4.01405437118884,0.705673563177697,0
+"DTG+TDF+3TC","35-49","Female","Unmarried","Homosexual","3","Southwestern China","2020","Same-day","<200",4.99962314973707,0.811540533206426,0
+"DTG/3TC","35-49","Female","Others","Homosexual","2","Northwestern China","2020","Same-day",">500",4.17515160882219,4.16153759579174,1
+"DTG+TDF+3TC","25-34","Female","Unmarried","Others","1","Southwestern China","2022","Same-day","350-500",4.7151013053642,4.25035135541111,0
+"B/F/TAF","35-49","Male","Unmarried","Homosexual","4","Northeastern China","2020","Same-day","<200",3.80577903024563,1.35941425466444,0
+"DTG+TDF+3TC","50+","Female","Married","Heterosexual","3","Northwestern China","2020","8-30 days","350-500",4.58557302708445,1.94153486087453,0
+"DTG+TDF+3TC","25-34","Female","Others","Heterosexual","2","Northeastern China","2023",">30 days","<200",5.15535073395441,3.52302690199576,1
+"DTG+TDF+3TC","35-49","Male","Others","Others","3","Northwestern China","2021","1-7 days","200-349",4.46087675633902,4.69433608197141,1
+"B/F/TAF","50+","Male","Others","Others","4","Northeastern China","2020","8-30 days","350-500",3.7086182661523,1.21944613289088,0
+"B/F/TAF","35-49","Male","Unmarried","Heterosexual","4","Eastern China","2020","8-30 days",">500",5.31568321993413,4.87752905290108,1
+"B/F/TAF","25-34","Male","Married","Heterosexual","3","Northern China","2023","Same-day","<200",4.08903959033453,2.78032534848899,2
+"DTG/3TC","50+","Male","Married","Others","4","Northern China","2021","8-30 days",">500",4.00974832542407,2.70621594588738,1
+"DTG/3TC","25-34","Female","Unmarried","Homosexual","1","Southwestern China","2020","Same-day","200-349",4.19224779142187,2.73667120339815,1
+"B/F/TAF","35-49","Female","Married","Heterosexual","4","Northeastern China","2022",">30 days","350-500",4.00221779836848,2.93337399698794,0
+"B/F/TAF","50+","Male","Unmarried","Homosexual","3","Southern China","2021",">30 days",">500",4.59861690194456,1.13759357319213,0
+"DTG/3TC","18-24","Female","Others","Others","2","Southern China","2022","8-30 days","200-349",4.66658464058985,4.92205192043912,0
+"B/F/TAF","50+","Male","Others","Homosexual","1","Southwestern China","2020",">30 days","<200",4.31944780806073,3.4154759059893,0
+"DTG/3TC","18-24","Male","Unmarried","Others","4","Southwestern China","2021","Same-day","<200",4.91116252815158,1.42600590421353,0
+"DTG+TDF+3TC","18-24","Female","Others","Others","4","Central China","2022","8-30 days","200-349",4.7228967915577,4.99763026519213,1
+"B/F/TAF","50+","Male","Others","Homosexual","1","Northern China","2022","1-7 days","200-349",3.86042952723699,0.938333033467643,0
+"B/F/TAF","35-49","Male","Married","Homosexual","3","Southwestern China","2020",">30 days","350-500",4.82980886532438,2.78654371271841,1
+"DTG/3TC","35-49","Male","Married","Others","2","Eastern China","2020","8-30 days",">500",3.85050178730061,4.81619120016694,0
+"DTG+TDF+3TC","35-49","Female","Married","Homosexual","4","Northeastern China","2023",">30 days",">500",4.45811033408316,2.02381131541915,0
+"DTG/3TC","50+","Female","Unmarried","Homosexual","3","Central China","2022","Same-day","<200",4.36326276165777,0.785017854068428,0
+"DTG+TDF+3TC","18-24","Female","Married","Homosexual","1","Southern China","2021","8-30 days","350-500",4.10056836091544,1.8644505594857,0
+"B/F/TAF","18-24","Female","Married","Heterosexual","2","Southern China","2021","1-7 days","<200",5.06309902076958,1.63641601486597,1
+"DTG+TDF+3TC","35-49","Female","Married","Heterosexual","2","Central China","2020",">30 days","350-500",4.51290160391873,2.11656235670671,0
+"DTG/3TC","50+","Female","Others","Others","2","Southern China","2021","Same-day","200-349",4.75928354854848,1.56910200137645,0
+"DTG+TDF+3TC","35-49","Male","Unmarried","Others","2","Northeastern China","2020","8-30 days",">500",4.47740236153327,3.05161554052029,2
+"DTG/3TC","50+","Female","Others","Homosexual","3","Eastern China","2022","1-7 days",">500",4.05784728382445,1.67826510767918,0
+"DTG/3TC","35-49","Female","Married","Heterosexual","2","Southern China","2022","1-7 days","<200",4.7905974084396,1.36252321465872,0
+"B/F/TAF","18-24","Male","Married","Homosexual","2","Southern China","2023",">30 days",">500",4.10157328833646,1.73224233346991,1
+"DTG+TDF+3TC","18-24","Male","Married","Others","4","Southwestern China","2022","8-30 days","200-349",4.92477547456723,4.71177526016254,0
+"B/F/TAF","18-24","Male","Married","Heterosexual","4","Southern China","2020",">30 days","200-349",5.70853530558155,4.66086506075226,0
+"DTG+TDF+3TC","18-24","Female","Married","Heterosexual","4","Southwestern China","2021","1-7 days",">500",4.67158515487195,3.76943377789576,1
+"DTG+TDF+3TC","18-24","Male","Unmarried","Homosexual","2","Southern China","2020","8-30 days","350-500",4.83737374514252,3.49659415858332,0
+"DTG+TDF+3TC","35-49","Male","Others","Heterosexual","4","Southern China","2020",">30 days",">500",4.71860682621388,4.19946755585261,0
+"DTG+TDF+3TC","50+","Male","Unmarried","Others","1","Southern China","2023",">30 days","<200",5.12547501694854,1.08754098915961,0
+"B/F/TAF","25-34","Male","Unmarried","Homosexual","2","Northwestern China","2021",">30 days","350-500",3.87540877547003,4.62545752129517,0
+"DTG+TDF+3TC","35-49","Female","Married","Homosexual","1","Northeastern China","2022","8-30 days","<200",4.02170658872936,3.07254580338486,0
+"B/F/TAF","50+","Male","Married","Homosexual","4","Southwestern China","2020","Same-day","200-349",4.53695991690825,1.12100285314955,0
+"DTG+TDF+3TC","35-49","Female","Others","Heterosexual","4","Southwestern China","2022",">30 days","200-349",4.47013272740457,0.966758846770972,0
+"B/F/TAF","35-49","Male","Others","Homosexual","3","Central China","2021",">30 days","350-500",3.92456614681122,1.28479666355997,1
+"DTG/3TC","35-49","Female","Others","Homosexual","1","Northeastern China","2022",">30 days","<200",3.62310136762396,3.30159927206114,0
+"DTG+TDF+3TC","18-24","Male","Others","Homosexual","4","Southwestern China","2021","Same-day","200-349",4.26418375416484,3.32934704911895,1
+"B/F/TAF","25-34","Female","Others","Homosexual","1","Southwestern China","2021","1-7 days",">500",5.32258768897015,1.41764856106602,0
+"DTG/3TC","25-34","Female","Married","Homosexual","2","Northwestern China","2021","Same-day","350-500",5.62208181519554,1.92043117643334,0
+"DTG+TDF+3TC","50+","Male","Unmarried","Homosexual","2","Southern China","2022","8-30 days","350-500",4.91760267315181,1.57811374170706,0
+"DTG/3TC","35-49","Female","Others","Homosexual","2","Central China","2020","8-30 days","350-500",3.68983638317893,3.62921312614344,1
+"DTG+TDF+3TC","35-49","Male","Married","Heterosexual","2","Northern China","2022","1-7 days",">500",4.87480746703016,0.564018517383374,0
+"DTG/3TC","25-34","Female","Others","Heterosexual","2","Southwestern China","2022","Same-day",">500",4.22990819215751,2.62486410536803,0
+"DTG/3TC","18-24","Female","Unmarried","Homosexual","4","Southern China","2020","8-30 days","<200",4.56400125202464,1.34818375855684,0
+"B/F/TAF","18-24","Male","Married","Heterosexual","3","Northern China","2022","1-7 days","200-349",4.83875492628708,3.91949287708849,1
+"DTG+TDF+3TC","18-24","Male","Married","Homosexual","4","Central China","2020",">30 days",">500",5.32996639140795,0.75511885737069,0
+"DTG/3TC","35-49","Female","Others","Others","4","Southwestern China","2023","1-7 days","200-349",4.56719230151364,0.743086999980733,0
+"B/F/TAF","50+","Male","Others","Heterosexual","3","Eastern China","2021","1-7 days","200-349",4.14828936588202,1.36460702808108,0
+"B/F/TAF","18-24","Male","Unmarried","Others","3","Northeastern China","2022","8-30 days","<200",4.8824712292745,3.91502727149054,0
+"DTG/3TC","25-34","Female","Others","Homosexual","2","Eastern China","2023",">30 days","<200",4.9098819106759,3.00485853117425,0
+"DTG+TDF+3TC","50+","Male","Unmarried","Homosexual","1","Northern China","2022","Same-day","200-349",4.95192183620767,0.646160295698792,0
+"DTG/3TC","25-34","Male","Married","Homosexual","1","Northeastern China","2022","8-30 days",">500",5.071895542449,3.44245470000897,1
+"DTG+TDF+3TC","50+","Male","Others","Heterosexual","1","Southern China","2020","8-30 days",">500",4.64437680090979,2.71709086489864,0
+"DTG+TDF+3TC","25-34","Female","Unmarried","Homosexual","4","Northeastern China","2023","Same-day","200-349",4.02836807867881,1.56730963930022,0
+"DTG+TDF+3TC","18-24","Female","Married","Homosexual","2","Central China","2022","Same-day","<200",4.56660913056124,3.56450468592811,0
+"B/F/TAF","25-34","Male","Married","Homosexual","3","Northern China","2023","1-7 days","<200",3.61893152069077,0.769224301213399,0
+"DTG+TDF+3TC","35-49","Male","Unmarried","Heterosexual","2","Northeastern China","2020","8-30 days","<200",5.07540231969303,1.46006809687242,0
+"B/F/TAF","35-49","Female","Unmarried","Homosexual","2","Northeastern China","2020","8-30 days","350-500",4.75283361334945,3.94975792826153,0
+"B/F/TAF","50+","Female","Unmarried","Heterosexual","2","Eastern China","2020","1-7 days","<200",4.85134791950724,4.69977530429605,1
+"B/F/TAF","18-24","Male","Others","Others","2","Southern China","2023","Same-day",">500",4.58054412826135,3.18394682859071,0
+"DTG+TDF+3TC","50+","Male","Unmarried","Homosexual","2","Northeastern China","2022",">30 days","<200",3.30438800551385,3.13850789552089,1
+"DTG+TDF+3TC","35-49","Male","Unmarried","Homosexual","1","Central China","2020","Same-day","350-500",4.19515669347496,4.2852121401811,0
+"DTG/3TC","35-49","Female","Unmarried","Others","2","Southwestern China","2023","8-30 days","200-349",4.97216178574349,0.741763788741082,0
+"DTG/3TC","35-49","Female","Others","Others","3","Northwestern China","2020","1-7 days","200-349",4.36315281992144,2.54871711973101,1
+"B/F/TAF","18-24","Female","Married","Homosexual","4","Southern China","2021","1-7 days","<200",4.91851791276216,4.73382085887715,0
+"DTG+TDF+3TC","25-34","Female","Married","Homosexual","1","Southwestern China","2020","Same-day","<200",4.03118800544002,2.82010249770246,0
+"DTG+TDF+3TC","25-34","Female","Married","Homosexual","4","Northern China","2023","1-7 days","200-349",4.62906040931558,3.29874979797751,0
+"DTG/3TC","25-34","Male","Others","Homosexual","1","Central China","2022",">30 days","350-500",4.22598664418851,2.26783936214633,0
+"DTG/3TC","50+","Male","Others","Homosexual","4","Central China","2020","1-7 days","200-349",4.17542231872743,2.26044676452875,0
+"DTG/3TC","50+","Male","Married","Homosexual","3","Eastern China","2020","Same-day","200-349",4.40708222780918,4.94961937237531,0
+"DTG/3TC","25-34","Male","Others","Homosexual","1","Southern China","2022","8-30 days",">500",5.35738060918814,3.94598252419382,0
+"DTG+TDF+3TC","18-24","Male","Unmarried","Heterosexual","4","Southwestern China","2023",">30 days","<200",4.58610757975152,2.3077156326035,0
+"B/F/TAF","25-34","Female","Others","Heterosexual","3","Northeastern China","2020","8-30 days","<200",4.61121923026642,0.975246960180812,0
+"B/F/TAF","18-24","Male","Unmarried","Heterosexual","1","Northeastern China","2020",">30 days",">500",5.29592054524517,1.14589934668038,0
+"DTG/3TC","25-34","Female","Others","Heterosexual","4","Southwestern China","2020","8-30 days","350-500",4.35615254703856,2.75299915915821,0
+"B/F/TAF","50+","Male","Others","Homosexual","3","Northeastern China","2021","8-30 days","<200",4.75886262729513,3.81769024475943,0
+"DTG+TDF+3TC","18-24","Female","Married","Homosexual","4","Southern China","2020","Same-day","<200",4.13845457387281,3.25158059387468,0
+"DTG+TDF+3TC","25-34","Female","Married","Heterosexual","4","Southwestern China","2022","1-7 days","<200",4.92417778768491,4.89366526005324,0
+"DTG/3TC","18-24","Male","Married","Heterosexual","3","Central China","2021","Same-day","200-349",3.82650939581413,0.507843021187,0
+"DTG+TDF+3TC","35-49","Female","Unmarried","Homosexual","3","Central China","2022","1-7 days","200-349",4.47208696714824,0.691107822931372,0
+"B/F/TAF","25-34","Male","Unmarried","Homosexual","3","Eastern China","2021","Same-day",">500",5.06385898974916,2.03391681239009,1
+"DTG/3TC","50+","Male","Others","Homosexual","4","Eastern China","2022","Same-day",">500",5.16921976126292,4.46180198295042,0
+"B/F/TAF","18-24","Male","Unmarried","Others","2","Northeastern China","2023","Same-day","350-500",4.45676436394449,1.60206054779701,1
+"B/F/TAF","18-24","Male","Others","Heterosexual","3","Northeastern China","2020","Same-day","<200",3.30512818169069,2.58007598307449,0
+"DTG/3TC","50+","Female","Married","Homosexual","3","Central China","2020",">30 days","<200",5.32262443679894,3.37506210932042,0
+"DTG+TDF+3TC","18-24","Male","Married","Homosexual","1","Northeastern China","2021","8-30 days",">500",4.18872914776045,2.33786016039085,1
+"B/F/TAF","25-34","Female","Unmarried","Homosexual","4","Northwestern China","2023","8-30 days","350-500",4.85908857520645,4.40234285208862,0
+"B/F/TAF","50+","Male","Married","Homosexual","2","Southwestern China","2023",">30 days","350-500",3.65167857904688,2.39408034470398,1
+"DTG+TDF+3TC","18-24","Male","Others","Homosexual","3","Southwestern China","2021",">30 days","200-349",4.27692301207221,3.01411815686151,0
+"DTG+TDF+3TC","50+","Female","Others","Others","3","Southern China","2022",">30 days","350-500",5.31553036620146,0.500659710261971,0
+"DTG+TDF+3TC","18-24","Female","Unmarried","Heterosexual","1","Eastern China","2023","1-7 days","200-349",4.67146809943522,1.45052745111752,1
+"DTG+TDF+3TC","35-49","Male","Married","Homosexual","2","Central China","2020","Same-day",">500",4.67177715777436,4.77726181969047,0
+"B/F/TAF","50+","Female","Unmarried","Heterosexual","2","Eastern China","2023","Same-day","200-349",4.94899212488628,2.61228163447231,0
+"DTG/3TC","25-34","Male","Unmarried","Others","3","Eastern China","2021","8-30 days",">500",3.81763318347755,4.35820207570214,0
+"DTG/3TC","50+","Male","Unmarried","Heterosexual","1","Northeastern China","2022","8-30 days","350-500",4.51588843665847,1.20286839851178,1
+"DTG+TDF+3TC","35-49","Male","Married","Homosexual","1","Northeastern China","2021",">30 days","<200",4.73743731444669,3.23150922043715,0
+"DTG/3TC","50+","Female","Married","Heterosexual","2","Northern China","2020","1-7 days","<200",5.06641978886274,1.20472961163614,0
+"DTG/3TC","35-49","Male","Others","Others","2","Eastern China","2023",">30 days","200-349",4.09530061088144,3.64622890297323,0
+"DTG/3TC","35-49","Female","Unmarried","Homosexual","1","Southwestern China","2020",">30 days",">500",4.61711996575468,0.52767595462501,0
+"DTG+TDF+3TC","25-34","Female","Married","Others","4","Northwestern China","2022","8-30 days",">500",4.83312700552892,0.647476889425889,0
+"DTG/3TC","18-24","Female","Others","Others","1","Southern China","2023","1-7 days","200-349",6.35786036293976,2.28676521126181,1
+"DTG/3TC","35-49","Female","Others","Heterosexual","4","Southern China","2020","1-7 days","<200",5.29493391903772,1.79735675430857,0
+"DTG+TDF+3TC","25-34","Female","Others","Others","4","Southwestern China","2020",">30 days",">500",3.31470668283963,3.74749281362165,0
+"DTG+TDF+3TC","18-24","Female","Others","Others","4","Northwestern China","2021","8-30 days","<200",4.50861370643219,1.60209960327484,0
+"DTG/3TC","35-49","Male","Married","Homosexual","4","Northern China","2023","8-30 days","350-500",4.59554103688146,3.2313912367681,0
+"DTG+TDF+3TC","25-34","Male","Married","Homosexual","3","Southwestern China","2022","8-30 days",">500",4.90908110895133,2.50981619895902,0
+"DTG/3TC","35-49","Female","Married","Homosexual","1","Southwestern China","2020","8-30 days","<200",4.15038594692795,1.16233424295206,0
+"DTG+TDF+3TC","35-49","Male","Others","Heterosexual","3","Central China","2023","Same-day","350-500",4.9982257648332,3.21337724861223,2
+"DTG+TDF+3TC","50+","Male","Others","Others","4","Northwestern China","2020",">30 days",">500",4.15362732321583,1.93879556481261,0
+"B/F/TAF","35-49","Male","Unmarried","Heterosexual","2","Northwestern China","2022",">30 days","<200",4.44825847658065,1.36955534014851,0
+"DTG+TDF+3TC","35-49","Male","Others","Homosexual","1","Central China","2020",">30 days","350-500",4.80193303215936,4.4190845459234,1
+"DTG/3TC","50+","Female","Others","Homosexual","1","Eastern China","2020","8-30 days","200-349",4.19597750832027,4.15663232898805,0
+"B/F/TAF","50+","Male","Unmarried","Heterosexual","1","Northeastern China","2022",">30 days","<200",4.54243306026,3.96566957689356,0
+"B/F/TAF","25-34","Female","Married","Others","1","Northern China","2020","1-7 days",">500",5.28899509937375,3.375810128171,0
+"DTG/3TC","50+","Male","Unmarried","Homosexual","3","Northeastern China","2022","8-30 days","200-349",4.26817312814719,3.6735276049003,0
+"DTG+TDF+3TC","35-49","Female","Others","Others","2","Central China","2020","1-7 days","350-500",3.9207364970515,3.24487237655558,0
+"B/F/TAF","50+","Male","Others","Homosexual","2","Northwestern China","2022",">30 days",">500",4.86184282048897,2.18319354159757,0
+"B/F/TAF","35-49","Female","Married","Others","4","Northwestern China","2021","8-30 days","350-500",4.10772966940836,4.56669601099566,0
+"DTG/3TC","35-49","Male","Unmarried","Others","1","Northeastern China","2022",">30 days","<200",4.36579998723987,2.65543181449175,0
+"DTG/3TC","25-34","Female","Others","Homosexual","1","Southwestern China","2020",">30 days",">500",4.75389963291202,2.42166039254516,0
+"DTG/3TC","18-24","Female","Others","Homosexual","2","Northern China","2023","8-30 days","350-500",4.73066550195082,1.09663876763079,0
+"B/F/TAF","18-24","Female","Others","Others","4","Northern China","2020","8-30 days","<200",5.08972479278202,2.58740275341552,0
+"DTG+TDF+3TC","50+","Female","Unmarried","Homosexual","3","Southern China","2020","1-7 days","350-500",4.16030183329292,2.8198531109374,0
+"DTG+TDF+3TC","50+","Male","Married","Others","1","Southwestern China","2023","8-30 days","200-349",4.34069421501688,1.01399458537344,0
+"DTG/3TC","25-34","Male","Married","Heterosexual","1","Northern China","2022",">30 days","<200",4.17099035306775,3.45697321137413,1
+"DTG/3TC","25-34","Female","Married","Others","1","Northeastern China","2023",">30 days",">500",4.41869200986219,1.78912572853733,0
+"DTG/3TC","35-49","Female","Unmarried","Homosexual","2","Northern China","2023",">30 days",">500",5.49467455986656,2.84835003106855,0
+"DTG/3TC","18-24","Female","Others","Heterosexual","4","Eastern China","2023",">30 days","200-349",4.46947402945152,2.51213912293315,0
+"DTG+TDF+3TC","18-24","Male","Unmarried","Others","3","Southern China","2022","Same-day",">500",4.48609500804087,3.13240991218481,0
+"B/F/TAF","18-24","Female","Others","Heterosexual","2","Northern China","2020",">30 days","<200",4.75576294665056,3.33957776438911,0
+"DTG/3TC","50+","Male","Married","Others","2","Southwestern China","2021","8-30 days","<200",3.89162330836323,0.536423030076548,0
+"DTG+TDF+3TC","18-24","Male","Unmarried","Homosexual","3","Northeastern China","2022","8-30 days","350-500",4.97680051354008,1.04656512092333,0
+"B/F/TAF","18-24","Male","Others","Homosexual","4","Northeastern China","2022","8-30 days","350-500",4.47081797740491,3.25731173169333,0
+"DTG/3TC","35-49","Male","Others","Heterosexual","2","Northwestern China","2022","Same-day","200-349",4.14752691396077,3.91360256273765,1
+"DTG/3TC","50+","Male","Others","Others","1","Southern China","2020",">30 days","<200",4.68715791093266,2.17279467277694,0
+"DTG/3TC","25-34","Female","Unmarried","Heterosexual","1","Central China","2023","Same-day","350-500",4.40841634142092,3.75819738931023,0
+"DTG+TDF+3TC","35-49","Male","Others","Heterosexual","1","Northwestern China","2022",">30 days","350-500",4.42419261508604,0.966022587730549,0
+"B/F/TAF","25-34","Male","Unmarried","Heterosexual","2","Southern China","2023","1-7 days","<200",4.44256268064167,1.13909702782985,0
+"DTG+TDF+3TC","18-24","Female","Married","Heterosexual","4","Northwestern China","2023",">30 days",">500",5.27360260710982,2.21693484671414,0
+"DTG/3TC","18-24","Female","Others","Others","2","Southwestern China","2021",">30 days","<200",4.22354506753412,2.34782548365183,0
+"B/F/TAF","50+","Male","Married","Homosexual","1","Eastern China","2021","8-30 days","<200",4.97712983862273,3.08896724879742,0
+"DTG+TDF+3TC","25-34","Male","Unmarried","Others","1","Southwestern China","2023","1-7 days",">500",4.58221005373938,3.76297789986711,0
+"B/F/TAF","18-24","Female","Married","Heterosexual","1","Southwestern China","2022","Same-day","<200",4.36113729458551,1.26355382276233,0
+"DTG+TDF+3TC","18-24","Female","Others","Others","4","Central China","2023","Same-day","200-349",4.17779019038807,2.14373330271337,0
+"DTG+TDF+3TC","35-49","Female","Married","Homosexual","4","Northern China","2021",">30 days","200-349",4.31644699513137,2.78827916586306,0
+"DTG/3TC","25-34","Male","Others","Homosexual","3","Southwestern China","2022","Same-day",">500",4.36204333805178,3.4300409903517,0
+"DTG+TDF+3TC","50+","Female","Others","Homosexual","1","Eastern China","2023","Same-day",">500",5.04531075175485,1.03654446976725,0
+"DTG+TDF+3TC","18-24","Male","Married","Heterosexual","2","Eastern China","2021","8-30 days","350-500",4.10931353943195,2.75889264710713,1
+"DTG+TDF+3TC","25-34","Male","Unmarried","Others","4","Northwestern China","2021","8-30 days","200-349",5.32166186688219,1.12864287931006,0
+"DTG+TDF+3TC","50+","Male","Others","Others","3","Eastern China","2021","Same-day","200-349",4.4146073869745,0.974485004320741,0
+"DTG+TDF+3TC","25-34","Male","Unmarried","Others","1","Southern China","2022","Same-day","350-500",4.17317904494654,4.84327572875191,0
+"DTG/3TC","25-34","Female","Married","Homosexual","2","Eastern China","2023","Same-day","<200",4.14604523473054,1.61380342545453,0
+"B/F/TAF","18-24","Female","Married","Homosexual","1","Eastern China","2021","1-7 days",">500",4.59405274317838,4.01247950748075,0
+"B/F/TAF","25-34","Male","Others","Homosexual","3","Northwestern China","2023","1-7 days","200-349",5.37401739861131,4.17940685048234,0
+"DTG/3TC","18-24","Male","Unmarried","Others","1","Northern China","2023",">30 days","200-349",4.38786958042261,0.757088442216627,1
+"DTG/3TC","50+","Female","Others","Heterosexual","3","Northwestern China","2023",">30 days",">500",4.45214222590838,4.4691950478591,1
+"DTG/3TC","35-49","Female","Unmarried","Others","3","Eastern China","2023",">30 days","200-349",4.60253620243957,2.32734519068617,0
+"DTG/3TC","50+","Male","Others","Heterosexual","2","Central China","2021","1-7 days","350-500",4.53170584903637,0.604296573321335,0
+"DTG+TDF+3TC","35-49","Male","Others","Others","2","Northwestern China","2021",">30 days","350-500",4.12916778469684,2.98478368867654,0
+"B/F/TAF","18-24","Female","Others","Heterosexual","4","Southern China","2023","8-30 days","<200",4.99414559956567,4.89962507295422,1
+"B/F/TAF","25-34","Male","Married","Homosexual","2","Northern China","2023","8-30 days","<200",3.8847378837175,2.20659879187588,1
+"DTG/3TC","35-49","Male","Married","Others","2","Northern China","2023","8-30 days","<200",4.00995981906739,3.1373191436287,0
+"DTG+TDF+3TC","25-34","Female","Others","Others","1","Northwestern China","2023","Same-day","350-500",4.29228433356009,4.3847935157828,1
+"DTG+TDF+3TC","35-49","Male","Others","Others","1","Southern China","2022",">30 days","200-349",4.36077952975011,2.90402576362249,0
+"DTG/3TC","50+","Male","Unmarried","Others","1","Northern China","2022","1-7 days",">500",5.02704967377154,4.94623320817482,2
+"B/F/TAF","18-24","Male","Unmarried","Others","3","Central China","2022","Same-day","<200",4.18847052405809,4.22469887288753,0
+"DTG/3TC","50+","Male","Married","Heterosexual","3","Eastern China","2020","8-30 days","<200",4.41090408887119,1.76580194511916,0
+"DTG/3TC","50+","Male","Others","Homosexual","3","Southwestern China","2022","1-7 days",">500",4.33380714736082,3.42347325582523,0
+"B/F/TAF","35-49","Female","Others","Homosexual","3","Southwestern China","2021","Same-day",">500",5.30194191539063,4.10391529928893,0
+"B/F/TAF","50+","Male","Married","Others","1","Southwestern China","2020","8-30 days","200-349",5.22441073039356,3.94187078054529,0
+"DTG/3TC","25-34","Female","Others","Homosexual","1","Central China","2020",">30 days","200-349",3.97080017498181,4.40725442417897,0
+"DTG/3TC","35-49","Female","Others","Homosexual","2","Northern China","2020","1-7 days","350-500",4.71825716917275,3.85417968779802,0
+"DTG+TDF+3TC","35-49","Female","Unmarried","Homosexual","4","Northern China","2023","Same-day","<200",3.85139926305879,3.45958057313692,0
+"DTG+TDF+3TC","35-49","Male","Others","Others","3","Southwestern China","2022","8-30 days","200-349",4.08546328486327,2.46175806992687,0
+"DTG/3TC","18-24","Female","Married","Homosexual","2","Southwestern China","2023",">30 days",">500",4.2091943788143,3.56426218908746,0
+"DTG+TDF+3TC","18-24","Male","Married","Homosexual","3","Northeastern China","2021",">30 days","<200",4.07634909553403,2.76387003180571,0
+"DTG/3TC","25-34","Female","Unmarried","Others","1","Southwestern China","2021","1-7 days","<200",4.61429664599005,4.50470574339852,0
+"DTG/3TC","50+","Female","Others","Homosexual","4","Southern China","2021",">30 days","<200",4.34340716677775,4.2653677581111,1
+"DTG+TDF+3TC","35-49","Male","Others","Homosexual","3","Eastern China","2020","Same-day","350-500",4.65310106406131,2.9665771011496,2
+"DTG/3TC","18-24","Male","Unmarried","Heterosexual","3","Central China","2020",">30 days","350-500",5.11481877860044,2.65484042512253,0
+"DTG/3TC","18-24","Male","Others","Others","4","Southwestern China","2022",">30 days","200-349",5.08555146235634,0.607772499322891,0
+"B/F/TAF","25-34","Female","Married","Others","4","Southwestern China","2023","1-7 days",">500",3.4643556774518,2.42576284171082,0
+"DTG/3TC","18-24","Female","Married","Homosexual","1","Northern China","2023",">30 days","200-349",4.3727941448491,3.52693493186962,1
+"B/F/TAF","18-24","Male","Married","Homosexual","2","Eastern China","2020","8-30 days",">500",4.73819827005104,2.91148097196128,0
+"DTG+TDF+3TC","50+","Male","Unmarried","Others","1","Central China","2023",">30 days","200-349",5.0824179561901,0.945111931185238,0
+"B/F/TAF","25-34","Female","Others","Heterosexual","1","Southwestern China","2020","1-7 days",">500",4.21474227790778,3.07500193570741,0
+"DTG/3TC","50+","Female","Unmarried","Heterosexual","4","Central China","2023",">30 days","200-349",4.56391396431999,1.71595428918954,0
+"DTG/3TC","18-24","Male","Unmarried","Others","1","Northern China","2023","1-7 days","350-500",5.31602931494454,3.22071426059119,0
+"DTG+TDF+3TC","35-49","Male","Unmarried","Heterosexual","1","Southern China","2020","8-30 days",">500",4.59949693483799,2.32408340764232,0
+"DTG+TDF+3TC","18-24","Female","Unmarried","Heterosexual","1","Northwestern China","2023","Same-day","<200",5.43795153390411,1.68884865916334,0
+"B/F/TAF","25-34","Female","Unmarried","Homosexual","2","Southwestern China","2023","Same-day","200-349",3.39162243253043,0.576113730436191,0
+"DTG+TDF+3TC","35-49","Female","Married","Homosexual","4","Eastern China","2023","Same-day","<200",5.51693890103035,2.72918816609308,2
+"DTG/3TC","25-34","Male","Others","Heterosexual","3","Northern China","2020","8-30 days","200-349",3.31250692919522,2.42224510258529,0
+"DTG/3TC","18-24","Female","Unmarried","Heterosexual","2","Southwestern China","2021",">30 days","<200",5.06654135480544,1.88351908954792,0
+"DTG/3TC","35-49","Female","Married","Heterosexual","2","Southwestern China","2021","1-7 days","200-349",5.03161158043852,4.1562020565616,0
+"DTG+TDF+3TC","50+","Male","Married","Heterosexual","1","Southwestern China","2023","1-7 days",">500",4.31004635872239,0.698969155433588,0
+"B/F/TAF","25-34","Male","Unmarried","Others","3","Northwestern China","2023","1-7 days","350-500",4.33449970296158,1.70017512282357,0
+"DTG+TDF+3TC","25-34","Male","Unmarried","Others","4","Southwestern China","2023","8-30 days","200-349",4.67777404095894,2.93226446665358,2
+"DTG/3TC","18-24","Male","Others","Homosexual","3","Central China","2021","1-7 days","350-500",4.58494429951774,0.808585660881363,0
+"DTG+TDF+3TC","25-34","Male","Unmarried","Homosexual","4","Northeastern China","2022",">30 days",">500",4.61961929691238,4.24594703724142,0
+"DTG/3TC","50+","Female","Unmarried","Heterosexual","2","Northeastern China","2022","Same-day","<200",5.15700328078843,2.21608418412507,0
+"DTG/3TC","50+","Female","Others","Heterosexual","4","Central China","2022",">30 days",">500",4.61463748839569,1.5623864174122,0
+"B/F/TAF","50+","Male","Unmarried","Heterosexual","3","Northern China","2020","1-7 days","<200",3.46787231448465,1.77424176514614,0
+"DTG+TDF+3TC","35-49","Male","Unmarried","Homosexual","4","Northern China","2022","8-30 days","200-349",4.70813709476121,4.14063389308285,0
+"DTG+TDF+3TC","50+","Male","Others","Homosexual","1","Central China","2022","1-7 days","350-500",4.33863469861608,3.29923245101236,0
+"DTG+TDF+3TC","50+","Male","Married","Homosexual","2","Southwestern China","2023","1-7 days","350-500",4.92145676463875,1.76078132551629,1
+"DTG+TDF+3TC","18-24","Female","Married","Homosexual","4","Northwestern China","2021","Same-day","350-500",4.06253072574237,1.70201921171974,0
+"DTG+TDF+3TC","50+","Female","Married","Heterosexual","4","Northeastern China","2022","8-30 days","200-349",4.37471489310539,4.38979492511135,1
+"B/F/TAF","25-34","Female","Others","Heterosexual","3","Central China","2023","8-30 days","350-500",3.73105813912642,1.58706205617636,0
+"B/F/TAF","25-34","Male","Others","Others","1","Northwestern China","2022","8-30 days","350-500",3.75823309389133,2.21803557395469,0
+"DTG/3TC","50+","Female","Unmarried","Homosexual","4","Northeastern China","2020",">30 days","350-500",3.62763093650365,3.37870716955513,0
+"B/F/TAF","35-49","Male","Others","Homosexual","4","Southwestern China","2023","Same-day","<200",4.51211783918643,1.64565463236067,0
+"DTG/3TC","18-24","Male","Married","Others","4","Eastern China","2020","Same-day","350-500",3.12919305992409,3.60499157698359,0
+"DTG/3TC","35-49","Female","Others","Homosexual","3","Central China","2023","Same-day","200-349",5.12725434636969,4.33913231873885,0
+"DTG+TDF+3TC","50+","Male","Unmarried","Homosexual","2","Northern China","2021","Same-day","200-349",4.17468940122345,4.43253408593591,0
+"DTG/3TC","18-24","Male","Unmarried","Homosexual","4","Eastern China","2021","8-30 days","350-500",4.507334878106,1.18215286009945,0
+"DTG+TDF+3TC","18-24","Female","Married","Others","1","Northeastern China","2021",">30 days","<200",5.09905077455941,4.35492821852677,0
+"B/F/TAF","50+","Male","Married","Heterosexual","1","Northwestern China","2023","Same-day","350-500",4.65060952834185,1.10346120409667,0
+"B/F/TAF","25-34","Male","Married","Heterosexual","4","Northern China","2020","Same-day","350-500",4.71084438955949,1.6522219813196,0
+"DTG+TDF+3TC","35-49","Female","Married","Homosexual","1","Northwestern China","2023","1-7 days","350-500",4.18169489858292,2.36866062239278,0
+"B/F/TAF","35-49","Male","Married","Others","3","Southwestern China","2022","Same-day","350-500",3.85287080364618,4.17841301555745,0
+"DTG/3TC","18-24","Female","Married","Others","3","Northeastern China","2021","1-7 days","350-500",4.82078662599116,1.27408381807618,0
+"DTG+TDF+3TC","25-34","Male","Unmarried","Homosexual","4","Southern China","2020","8-30 days",">500",4.39849711017278,0.91683028137777,0
+"DTG+TDF+3TC","50+","Male","Others","Heterosexual","2","Eastern China","2020","1-7 days","350-500",4.4999807579865,4.11308838706464,0
+"DTG/3TC","25-34","Female","Unmarried","Others","1","Southwestern China","2020","8-30 days","<200",4.08770267910263,3.03609450848307,0
+"B/F/TAF","35-49","Female","Others","Heterosexual","1","Southwestern China","2022","8-30 days","200-349",4.22164529978283,2.30438838584814,0
+"B/F/TAF","50+","Male","Others","Homosexual","1","Southern China","2022","Same-day","<200",3.35428624861862,0.605510109453462,0
+"DTG+TDF+3TC","50+","Female","Others","Heterosexual","2","Northeastern China","2023","Same-day","<200",3.67381511159546,0.572381929028779,0
+"DTG/3TC","50+","Male","Married","Heterosexual","3","Northwestern China","2023","Same-day","200-349",3.71437464918008,3.45718655071687,0
+"B/F/TAF","25-34","Female","Married","Heterosexual","2","Northwestern China","2020","8-30 days","<200",4.40984743769929,3.35867226158734,0
+"B/F/TAF","50+","Female","Unmarried","Heterosexual","4","Southwestern China","2021",">30 days","200-349",3.96680016773867,1.13692734809592,0
+"DTG/3TC","50+","Male","Married","Heterosexual","3","Southern China","2022","8-30 days","200-349",4.69454526614851,2.16766286513302,0
+"DTG/3TC","25-34","Male","Unmarried","Others","2","Southwestern China","2020",">30 days","350-500",4.51761679933743,2.6176049906062,1
+"DTG+TDF+3TC","18-24","Male","Others","Others","1","Eastern China","2023","1-7 days","350-500",4.25077274227709,1.58212274732068,0
+"B/F/TAF","18-24","Female","Others","Homosexual","2","Southwestern China","2023","8-30 days","350-500",3.69728414276515,3.23586674244143,0
+"DTG/3TC","18-24","Male","Unmarried","Others","4","Southern China","2023","Same-day","<200",4.16453379832329,3.19292881840374,0
+"DTG/3TC","18-24","Male","Married","Others","2","Central China","2023","1-7 days","<200",4.94636294999266,0.800708151306026,0
+"DTG/3TC","18-24","Female","Married","Others","1","Central China","2022","Same-day",">500",4.73839972157652,4.2219167453004,1
+"B/F/TAF","50+","Male","Married","Homosexual","3","Northern China","2020","Same-day",">500",4.34406628134837,4.16909884777851,0
+"DTG/3TC","18-24","Female","Others","Others","4","Southwestern China","2022","8-30 days","<200",3.37782056618571,4.19425296853296,0
+"DTG/3TC","35-49","Male","Unmarried","Heterosexual","3","Northern China","2023",">30 days","200-349",4.25689963402914,4.38605251745321,1
+"B/F/TAF","18-24","Male","Others","Heterosexual","1","Northwestern China","2021",">30 days","200-349",3.03785443390809,2.50833730644081,0
+"DTG+TDF+3TC","35-49","Male","Unmarried","Homosexual","2","Northern China","2021","1-7 days","200-349",5.38692134080432,3.24161888740491,1
+"B/F/TAF","18-24","Female","Married","Others","2","Eastern China","2022","1-7 days",">500",4.51685621948867,3.92537485354114,0
+"DTG+TDF+3TC","18-24","Female","Others","Heterosexual","2","Central China","2020","8-30 days","<200",5.13053297614937,0.987721691140905,0
+"DTG+TDF+3TC","18-24","Female","Others","Others","3","Southern China","2021","1-7 days","<200",4.41301955445619,1.56915932311676,0
+"B/F/TAF","35-49","Female","Unmarried","Heterosexual","2","Northeastern China","2020",">30 days","<200",5.53777458822584,0.809666282031685,0
+"DTG/3TC","25-34","Female","Unmarried","Homosexual","2","Northern China","2021","Same-day","<200",4.05067908200132,0.999596387846395,0
+"B/F/TAF","18-24","Male","Married","Others","3","Southwestern China","2020","1-7 days","350-500",4.91899516075078,0.798582481802441,0
+"DTG+TDF+3TC","35-49","Female","Married","Heterosexual","2","Northern China","2021","1-7 days",">500",4.49452818400553,4.65783441183157,0
+"DTG+TDF+3TC","35-49","Male","Unmarried","Others","4","Southern China","2022","Same-day","200-349",4.86356495409291,1.97456967423204,2
+"B/F/TAF","18-24","Female","Others","Heterosexual","2","Southern China","2020","Same-day","200-349",3.83738436693366,4.57040863775183,0
+"DTG+TDF+3TC","18-24","Male","Married","Homosexual","2","Eastern China","2023",">30 days","200-349",5.6190816134193,2.55873648216948,0
+"B/F/TAF","35-49","Male","Others","Heterosexual","3","Central China","2021",">30 days",">500",4.65121813693861,2.46756422577891,0
+"B/F/TAF","35-49","Male","Unmarried","Others","3","Central China","2021","8-30 days","350-500",4.25164351218095,3.37100974307396,0
+"DTG+TDF+3TC","25-34","Female","Married","Heterosexual","3","Southwestern China","2020",">30 days","<200",3.90688749521841,4.53255083959084,1
+"DTG+TDF+3TC","25-34","Male","Others","Others","4","Southwestern China","2021",">30 days","350-500",3.73732918228891,4.04104989499319,0
+"DTG+TDF+3TC","18-24","Female","Married","Homosexual","1","Central China","2021","Same-day","350-500",3.5918314520967,3.60716458747629,0
+"DTG+TDF+3TC","18-24","Male","Others","Others","1","Southwestern China","2020","1-7 days","200-349",3.64123003754904,1.8592747237999,0
+"DTG/3TC","50+","Male","Married","Heterosexual","1","Southwestern China","2022","Same-day",">500",4.51985602486291,4.71230084111448,0
+"B/F/TAF","35-49","Female","Married","Heterosexual","3","Northwestern China","2022","1-7 days","350-500",5.06077823468645,4.39057209098246,0
+"B/F/TAF","18-24","Female","Unmarried","Others","3","Northern China","2020",">30 days",">500",4.67695783047506,2.68432370037772,0
+"B/F/TAF","25-34","Male","Others","Heterosexual","4","Southwestern China","2022",">30 days","350-500",3.53395251386071,2.10099940258078,0
+"B/F/TAF","18-24","Male","Married","Heterosexual","1","Eastern China","2022","Same-day","350-500",4.54287661247755,3.22021750395652,0
+"DTG/3TC","50+","Male","Unmarried","Others","4","Central China","2021","Same-day","<200",5.25003397470991,0.800191577756777,0
+"DTG+TDF+3TC","18-24","Male","Unmarried","Heterosexual","2","Eastern China","2021","Same-day","<200",5.00734396406606,3.04779121652246,0
+"B/F/TAF","25-34","Male","Married","Heterosexual","2","Southwestern China","2023","8-30 days","200-349",5.42195466471346,3.93002885289025,0
+"B/F/TAF","35-49","Female","Married","Others","1","Southern China","2020",">30 days",">500",4.70979123113019,3.17225281428546,0
+"DTG/3TC","35-49","Female","Unmarried","Homosexual","4","Central China","2021","8-30 days",">500",2.85531207572122,3.70053157606162,0
+"DTG/3TC","25-34","Male","Married","Others","2","Northwestern China","2020","Same-day","<200",4.82119153355708,4.5316964428639,1
+"B/F/TAF","50+","Female","Unmarried","Homosexual","1","Northwestern China","2021",">30 days","350-500",4.6065468197666,2.96126071875915,0
+"B/F/TAF","18-24","Female","Others","Heterosexual","1","Northern China","2022","1-7 days","200-349",3.6408556180046,0.65394240245223,0
+"DTG+TDF+3TC","25-34","Female","Unmarried","Homosexual","4","Central China","2022","8-30 days",">500",4.43427388266724,3.59760728478432,0
+"DTG/3TC","18-24","Female","Unmarried","Homosexual","4","Eastern China","2020","Same-day","200-349",4.16406026433619,4.81170087633654,1
+"B/F/TAF","25-34","Male","Married","Heterosexual","3","Northern China","2020","8-30 days",">500",4.27826755287854,4.65645344718359,0
+"B/F/TAF","25-34","Male","Unmarried","Heterosexual","2","Northern China","2020","Same-day","350-500",4.73563538404566,0.96529827604536,0
+"DTG/3TC","18-24","Male","Married","Heterosexual","2","Northern China","2020","Same-day","200-349",4.20406805670017,2.16796082502697,0
+"B/F/TAF","25-34","Female","Others","Others","4","Eastern China","2020",">30 days","200-349",4.1740420563402,1.93793842929881,0
+"DTG+TDF+3TC","18-24","Female","Others","Heterosexual","1","Northern China","2020",">30 days","<200",3.77161807362402,4.29688713490032,0
+"DTG+TDF+3TC","35-49","Male","Married","Others","2","Eastern China","2020","8-30 days","200-349",4.58614230021987,2.67705425282475,0
+"DTG/3TC","25-34","Female","Married","Heterosexual","2","Northwestern China","2023","Same-day","350-500",4.77548275798865,1.80889585637487,0
+"B/F/TAF","35-49","Male","Unmarried","Homosexual","4","Northeastern China","2021",">30 days",">500",4.7858610202948,1.27549543743953,0
+"DTG/3TC","18-24","Male","Married","Heterosexual","1","Central China","2020","8-30 days","200-349",5.0945896738652,4.62625568802468,2
+"B/F/TAF","50+","Male","Unmarried","Others","4","Northeastern China","2020",">30 days",">500",3.31733309247669,4.2628397687804,0
+"DTG/3TC","18-24","Female","Unmarried","Others","1","Southern China","2023","Same-day","350-500",4.51661202058954,2.45406585279852,0
+"DTG/3TC","35-49","Female","Others","Homosexual","4","Northwestern China","2021",">30 days","350-500",3.83285115955361,3.29146757326089,0
+"B/F/TAF","25-34","Female","Others","Homosexual","1","Central China","2022","1-7 days","350-500",4.80439289637198,2.33580500259995,1
+"DTG/3TC","25-34","Female","Others","Homosexual","2","Northern China","2021",">30 days","350-500",4.54001244236357,2.17826744681224,0
+"DTG/3TC","25-34","Female","Others","Homosexual","2","Northern China","2020","Same-day","<200",3.965635988756,3.79602309525944,0
+"DTG/3TC","35-49","Male","Unmarried","Others","3","Northeastern China","2023",">30 days","<200",4.3112231679024,1.72946895135101,0
+"DTG/3TC","18-24","Male","Unmarried","Others","1","Southwestern China","2020",">30 days",">500",5.20144033762164,3.77676025277469,0
+"DTG/3TC","35-49","Female","Unmarried","Others","4","Southwestern China","2022","1-7 days","200-349",4.22927902679353,3.0709950402379,0
+"DTG+TDF+3TC","18-24","Male","Others","Heterosexual","3","Southwestern China","2021",">30 days",">500",3.63753937613907,4.66347573755775,1
+"DTG/3TC","25-34","Female","Others","Homosexual","2","Northern China","2022",">30 days","<200",5.04459741876698,3.06305465276819,1
+"DTG+TDF+3TC","25-34","Female","Others","Homosexual","3","Central China","2022",">30 days",">500",5.08488180254195,3.56367374910042,0
+"DTG/3TC","25-34","Male","Married","Others","3","Southern China","2020",">30 days","350-500",4.19642163494929,4.48800858261529,1
+"DTG+TDF+3TC","50+","Female","Others","Others","4","Central China","2022","8-30 days",">500",5.32706142761439,4.29454000503756,0
+"B/F/TAF","50+","Male","Married","Homosexual","4","Northeastern China","2022","1-7 days",">500",4.4169597168046,4.96740522922482,0
+"B/F/TAF","25-34","Male","Others","Others","1","Northern China","2021",">30 days","350-500",3.86299050430406,3.88857263873797,1
+"DTG/3TC","18-24","Female","Married","Homosexual","3","Eastern China","2023","Same-day",">500",4.3469795711231,4.48777781729586,1
+"B/F/TAF","50+","Male","Married","Homosexual","4","Central China","2021","1-7 days","350-500",4.62717021258907,1.92030272062402,0
+"DTG+TDF+3TC","25-34","Female","Married","Others","1","Northern China","2021",">30 days",">500",4.78123555125087,4.75112006033305,0
+"B/F/TAF","25-34","Male","Unmarried","Homosexual","3","Central China","2022","Same-day","200-349",4.69256926336534,4.53863271186128,1
+"DTG+TDF+3TC","35-49","Female","Married","Heterosexual","3","Central China","2022",">30 days","200-349",5.11808957726241,0.548382350476459,0
+"DTG+TDF+3TC","50+","Male","Married","Heterosexual","3","Southern China","2023","1-7 days","<200",4.61546600236499,1.24909309309442,0
+"B/F/TAF","35-49","Female","Others","Heterosexual","3","Eastern China","2022","Same-day","<200",4.75838757897459,2.6216534760315,0
+"B/F/TAF","25-34","Male","Unmarried","Heterosexual","1","Southern China","2023","8-30 days","350-500",5.0127895687597,4.30906628957018,1
+"DTG+TDF+3TC","35-49","Female","Unmarried","Others","1","Eastern China","2022","1-7 days","200-349",4.41684321057495,2.38309525500517,0
+"DTG/3TC","25-34","Male","Others","Others","4","Central China","2023","8-30 days","<200",4.1042164602798,1.3340701025445,0
+"B/F/TAF","35-49","Female","Others","Homosexual","4","Southwestern China","2023","Same-day","200-349",4.35892386018724,4.55972652870696,2
+"DTG+TDF+3TC","18-24","Male","Unmarried","Heterosexual","2","Northern China","2023",">30 days","<200",3.83331704715009,4.26287681574468,0
+"B/F/TAF","18-24","Male","Others","Others","2","Northern China","2022","8-30 days","200-349",4.52484850649266,4.42148668935988,0
+"DTG+TDF+3TC","35-49","Male","Unmarried","Others","2","Northeastern China","2023","8-30 days","350-500",4.75189876591257,2.54935935896356,0
+"DTG/3TC","50+","Female","Married","Others","4","Southern China","2020","8-30 days",">500",3.97643608261446,3.23373418615665,0
+"DTG+TDF+3TC","18-24","Male","Married","Others","4","Northeastern China","2022","8-30 days","350-500",4.06526474789918,2.81299151317216,0
+"DTG+TDF+3TC","50+","Female","Unmarried","Others","2","Northwestern China","2022","Same-day","<200",3.94579064957879,0.641140897758305,0
+"DTG/3TC","25-34","Male","Married","Homosexual","2","Northern China","2021",">30 days","350-500",4.47977702087258,4.87978511024266,0
+"B/F/TAF","25-34","Female","Unmarried","Heterosexual","2","Central China","2020","8-30 days","200-349",5.20828738775362,3.96916108904406,0
+"DTG+TDF+3TC","50+","Female","Married","Heterosexual","2","Eastern China","2022","8-30 days","350-500",4.18365306427438,1.50603081088047,0
+"DTG/3TC","35-49","Female","Married","Others","1","Southern China","2022","Same-day","<200",4.18572090290542,2.18713308533188,0
+"DTG/3TC","35-49","Male","Married","Homosexual","4","Southwestern China","2020","8-30 days",">500",4.4873369196828,4.33649342216086,0
+"B/F/TAF","18-24","Male","Married","Homosexual","3","Southwestern China","2020",">30 days","200-349",4.01226183214348,3.98402713297401,0
+"DTG/3TC","50+","Male","Married","Homosexual","2","Central China","2021","8-30 days","350-500",5.0074861301033,1.61833612818737,0
+"B/F/TAF","35-49","Female","Unmarried","Homosexual","1","Northwestern China","2023","1-7 days","<200",4.34904634667095,0.869337886804715,0
+"B/F/TAF","35-49","Male","Married","Homosexual","1","Northeastern China","2021","Same-day","350-500",5.06552718371225,2.79475847654976,0
+"DTG/3TC","50+","Female","Married","Homosexual","4","Southern China","2023",">30 days","<200",4.81972578906269,1.68641139764804,0
+"B/F/TAF","35-49","Male","Married","Homosexual","1","Central China","2023",">30 days","<200",4.89747939235817,2.52909294702113,0
+"B/F/TAF","18-24","Male","Unmarried","Homosexual","2","Central China","2020","Same-day",">500",3.76043127225166,2.14488866738975,0
+"DTG/3TC","25-34","Female","Married","Homosexual","4","Northeastern China","2023","1-7 days","<200",3.65965964056183,4.88252860773355,0
+"B/F/TAF","35-49","Male","Others","Others","3","Northeastern China","2023","8-30 days",">500",4.5294877374576,2.60798519768286,0
+"B/F/TAF","50+","Male","Married","Homosexual","4","Northwestern China","2021","8-30 days",">500",4.32084799023369,4.54256604984403,1
+"B/F/TAF","18-24","Male","Unmarried","Others","4","Southwestern China","2023","Same-day","350-500",4.33037507287295,1.1452743972186,0
+"DTG+TDF+3TC","50+","Female","Married","Others","4","Eastern China","2022","Same-day","<200",4.44890104349836,2.88519164186437,0
+"DTG+TDF+3TC","18-24","Male","Others","Heterosexual","4","Eastern China","2023",">30 days","200-349",5.30029206965637,0.579296596813947,0
+"DTG+TDF+3TC","25-34","Female","Unmarried","Homosexual","4","Southwestern China","2020","1-7 days","200-349",4.26909848230423,2.99033212300856,0
+"DTG+TDF+3TC","25-34","Female","Married","Heterosexual","4","Southern China","2022","1-7 days","<200",4.19118822987914,1.48238962050527,0
+"DTG/3TC","18-24","Female","Unmarried","Others","2","Central China","2020","Same-day","350-500",5.31366951754777,2.89653475093655,0
+"DTG/3TC","25-34","Female","Married","Homosexual","3","Northern China","2022","1-7 days","200-349",4.6118277383867,1.83692611719016,0
+"DTG+TDF+3TC","18-24","Male","Married","Heterosexual","1","Northwestern China","2022","1-7 days",">500",4.62121010395872,0.878238404518925,1
+"B/F/TAF","35-49","Male","Unmarried","Heterosexual","3","Northern China","2021","1-7 days","<200",3.85248364950164,1.89638218760956,0
+"DTG/3TC","35-49","Male","Unmarried","Others","2","Northern China","2020","1-7 days","200-349",4.87462082586225,0.707377927843481,0
+"B/F/TAF","25-34","Female","Married","Heterosexual","4","Northwestern China","2022","Same-day","<200",5.08432769326565,4.20853968570009,0
+"DTG/3TC","50+","Male","Others","Homosexual","2","Northeastern China","2020","1-7 days","200-349",4.85714671346793,2.41597829200327,1
+"DTG/3TC","18-24","Female","Married","Homosexual","1","Southwestern China","2022","1-7 days","200-349",3.92521630524799,2.00557786808349,0
+"DTG/3TC","50+","Female","Unmarried","Others","3","Northern China","2020",">30 days",">500",5.22518737574551,2.38404853618704,0
+"B/F/TAF","25-34","Male","Married","Heterosexual","4","Eastern China","2020","8-30 days","<200",4.35110836265167,2.12056106934324,0
+"DTG+TDF+3TC","18-24","Male","Unmarried","Homosexual","3","Northern China","2021",">30 days",">500",5.4183055721197,1.55196781130508,0
+"DTG/3TC","50+","Female","Married","Homosexual","3","Northeastern China","2020","8-30 days","350-500",4.73237021497395,1.36014748364687,0
+"DTG/3TC","18-24","Female","Unmarried","Heterosexual","3","Southwestern China","2021",">30 days","350-500",4.7081396252121,1.33750131214038,0
+"B/F/TAF","18-24","Female","Unmarried","Heterosexual","4","Central China","2021","Same-day","<200",5.50383700866219,3.73341769550461,0
+"B/F/TAF","35-49","Male","Others","Heterosexual","3","Southwestern China","2022","1-7 days",">500",5.10416716580717,2.65550449292641,1
+"B/F/TAF","18-24","Female","Married","Heterosexual","1","Northern China","2021","Same-day","200-349",4.73034500770693,1.21078397135716,0
+"DTG/3TC","25-34","Female","Unmarried","Homosexual","2","Southern China","2022",">30 days","200-349",4.10696822003443,4.83246703410987,0
+"DTG/3TC","25-34","Male","Others","Heterosexual","3","Northwestern China","2022",">30 days","200-349",4.95081702043591,3.59556862781756,1
+"B/F/TAF","18-24","Female","Unmarried","Homosexual","3","Northeastern China","2021","1-7 days","<200",4.88435779097539,2.13256184349302,0
+"B/F/TAF","35-49","Male","Unmarried","Others","2","Central China","2022","Same-day",">500",4.24342100875044,4.33910787187051,0
+"DTG+TDF+3TC","18-24","Male","Others","Homosexual","1","Southwestern China","2021",">30 days","<200",4.39041967305014,4.41589803760871,3
+"DTG/3TC","25-34","Male","Married","Others","3","Northeastern China","2022","1-7 days","200-349",4.36242827451429,4.2236672261497,0
+"DTG/3TC","35-49","Female","Others","Homosexual","2","Northeastern China","2020",">30 days","350-500",3.67811424646531,2.31210732134059,0
+"DTG+TDF+3TC","18-24","Female","Others","Homosexual","1","Northeastern China","2022",">30 days","<200",4.83913312524459,1.74045175488573,0
+"B/F/TAF","18-24","Male","Married","Heterosexual","4","Southern China","2023","8-30 days",">500",3.75569525448442,3.29691205313429,0
+"DTG/3TC","25-34","Male","Married","Homosexual","3","Northern China","2022",">30 days","200-349",4.67272900248917,4.37298219150398,0
+"B/F/TAF","25-34","Male","Others","Homosexual","3","Central China","2020","8-30 days",">500",3.72672625223114,4.93314290291164,0
+"B/F/TAF","35-49","Female","Others","Homosexual","3","Northeastern China","2022","Same-day","350-500",4.97820681456343,0.598875458003022,0
+"DTG/3TC","25-34","Female","Unmarried","Heterosexual","1","Northeastern China","2021","Same-day","200-349",4.9111893753339,3.27191351307556,0
+"DTG+TDF+3TC","35-49","Female","Unmarried","Homosexual","4","Northeastern China","2022","8-30 days","350-500",5.43622908748222,3.15378363535274,1
+"DTG/3TC","25-34","Female","Others","Homosexual","1","Northeastern China","2022",">30 days","350-500",3.90708555709937,1.6626361135859,0
+"DTG/3TC","50+","Male","Married","Homosexual","2","Southwestern China","2021",">30 days",">500",4.97744989849423,4.88403021835256,0
+"DTG/3TC","50+","Female","Married","Others","1","Eastern China","2023","Same-day","<200",4.39228757110571,0.697796408785507,0
+"DTG+TDF+3TC","50+","Female","Married","Heterosexual","2","Northern China","2021",">30 days",">500",4.60797919707801,3.87233916169498,0
+"B/F/TAF","18-24","Male","Others","Others","3","Eastern China","2022",">30 days",">500",4.29291783326084,1.86775167670567,0
+"DTG/3TC","18-24","Male","Married","Heterosexual","4","Eastern China","2023","Same-day",">500",4.70752313442512,3.00108593294863,0
+"DTG/3TC","18-24","Female","Unmarried","Heterosexual","1","Southwestern China","2023",">30 days","200-349",3.94432758815654,4.28372663119808,0
+"DTG+TDF+3TC","25-34","Male","Others","Heterosexual","1","Eastern China","2021","Same-day","200-349",4.0489344438614,1.87367675499991,0
+"DTG+TDF+3TC","18-24","Male","Married","Others","3","Southern China","2020","Same-day","<200",4.91030347678381,1.94369149312843,0
+"DTG+TDF+3TC","50+","Male","Married","Heterosexual","1","Eastern China","2022",">30 days","350-500",3.05692543750757,2.68945708905812,0
+"DTG/3TC","35-49","Male","Married","Others","2","Northwestern China","2020","8-30 days","<200",4.36361346771776,4.06654641230125,0
+"DTG/3TC","25-34","Male","Married","Homosexual","1","Eastern China","2023",">30 days","200-349",4.27798474674264,4.94700072647538,0
+"DTG+TDF+3TC","50+","Male","Others","Others","1","Northwestern China","2022","Same-day","350-500",4.8732555550776,2.32253902417142,0
+"B/F/TAF","35-49","Male","Married","Others","4","Northern China","2021","1-7 days","200-349",4.71531066233452,4.33423370297533,0
+"B/F/TAF","50+","Male","Unmarried","Others","4","Central China","2023",">30 days","<200",3.82287107699629,0.861756135825999,0
+"B/F/TAF","35-49","Female","Married","Heterosexual","4","Southwestern China","2021","Same-day","200-349",5.24144017972043,4.14371248858515,0
+"DTG+TDF+3TC","25-34","Female","Married","Others","3","Southern China","2020","1-7 days","<200",5.02786412194205,0.630381391267292,0
+"B/F/TAF","35-49","Male","Unmarried","Heterosexual","3","Southwestern China","2023",">30 days","<200",5.21886757548604,4.6728004256729,2
+"DTG+TDF+3TC","50+","Male","Married","Others","4","Northwestern China","2023","Same-day","200-349",4.01355009349428,1.20286055619363,0
+"DTG+TDF+3TC","35-49","Male","Married","Homosexual","2","Northwestern China","2023","Same-day","200-349",5.45230884634675,0.762854854227044,0
+"DTG/3TC","35-49","Female","Unmarried","Others","4","Northern China","2020","Same-day","350-500",5.10281099815839,2.76331220881548,0
+"DTG/3TC","35-49","Female","Others","Homosexual","2","Northwestern China","2023","Same-day","<200",5.07839880188967,2.33376299601514,0
+"DTG/3TC","25-34","Female","Unmarried","Heterosexual","2","Northeastern China","2020","1-7 days","<200",3.89491340811886,1.89354718802497,0
+"DTG/3TC","25-34","Male","Others","Heterosexual","2","Southern China","2023","1-7 days","<200",4.46598538412597,1.08440167305525,0
+"DTG+TDF+3TC","35-49","Male","Married","Others","3","Southwestern China","2022",">30 days","<200",4.59413930952215,1.47003686719108,0
+"DTG+TDF+3TC","50+","Male","Unmarried","Others","1","Eastern China","2023","8-30 days","350-500",3.8157460152182,2.21258712210692,0
+"DTG+TDF+3TC","18-24","Female","Unmarried","Heterosexual","4","Northwestern China","2021","Same-day","<200",4.39926476885105,2.91071119683329,0
+"DTG/3TC","25-34","Male","Others","Heterosexual","3","Northwestern China","2023","Same-day","<200",4.88875062367466,2.04171817237511,1
+"DTG/3TC","25-34","Male","Unmarried","Homosexual","1","Northeastern China","2021","8-30 days","<200",4.65745161920561,1.11757925851271,0
+"DTG/3TC","25-34","Female","Married","Others","4","Northeastern China","2022","8-30 days","200-349",4.62063238820314,4.30245852831285,0
+"B/F/TAF","50+","Female","Unmarried","Others","2","Central China","2023","8-30 days","<200",5.22340296741884,4.25125991285313,1
+"DTG/3TC","18-24","Male","Married","Heterosexual","2","Southwestern China","2020","Same-day","<200",4.12268777335039,2.79671769507695,1
+"B/F/TAF","18-24","Female","Unmarried","Homosexual","3","Southwestern China","2022","1-7 days","350-500",4.89654518885219,1.73732823552564,0
+"DTG/3TC","18-24","Male","Unmarried","Homosexual","1","Southern China","2022","Same-day","200-349",5.03381462017506,1.06311055878177,0
+"DTG+TDF+3TC","18-24","Female","Others","Heterosexual","4","Northwestern China","2020","8-30 days","<200",3.84643966416294,2.43893496796954,1
+"B/F/TAF","25-34","Male","Married","Homosexual","3","Central China","2020","1-7 days","200-349",3.50465607752234,1.01173761440441,0
+"B/F/TAF","25-34","Male","Others","Heterosexual","3","Southern China","2022","1-7 days","350-500",4.98028740253858,1.32394156581722,0
+"B/F/TAF","50+","Male","Unmarried","Heterosexual","1","Northern China","2022",">30 days","<200",4.37464204343326,1.10258626751602,0
+"DTG/3TC","25-34","Male","Married","Others","2","Northeastern China","2023",">30 days",">500",5.69760066262661,3.68601029866841,0
+"B/F/TAF","25-34","Female","Unmarried","Heterosexual","1","Southwestern China","2020",">30 days","200-349",4.65931718177609,1.75001533562317,0
+"DTG+TDF+3TC","35-49","Female","Married","Heterosexual","1","Northern China","2020","Same-day","350-500",4.48623248329472,3.40741560072638,0
+"B/F/TAF","25-34","Male","Married","Others","3","Southern China","2021","8-30 days",">500",3.63454098068129,4.34494633472059,0
+"DTG/3TC","25-34","Male","Married","Homosexual","1","Southern China","2020","1-7 days","200-349",4.09530127710902,1.97682292258833,1
+"DTG/3TC","18-24","Female","Married","Others","1","Northwestern China","2022","8-30 days","350-500",3.81065006718133,2.09940617566463,0
+"DTG/3TC","35-49","Male","Unmarried","Heterosexual","2","Northern China","2022","8-30 days","200-349",5.92437201664817,0.610054561519064,0
+"DTG+TDF+3TC","35-49","Male","Married","Homosexual","1","Southwestern China","2021","Same-day","200-349",3.8601848598475,3.03160974604543,1
+"DTG/3TC","50+","Male","Married","Heterosexual","4","Northern China","2020",">30 days","350-500",4.81069654761377,3.03594431630336,0
+"DTG+TDF+3TC","18-24","Male","Married","Heterosexual","2","Northern China","2021","Same-day","200-349",5.17074712122043,1.22673891251907,0
+"B/F/TAF","25-34","Male","Others","Others","3","Northeastern China","2021","1-7 days","<200",4.33809413894433,3.49197545857169,0
+"DTG/3TC","35-49","Female","Unmarried","Others","2","Southwestern China","2021","8-30 days","350-500",4.57219173543353,3.28254083695356,0
+"DTG+TDF+3TC","25-34","Female","Married","Heterosexual","3","Eastern China","2023","Same-day","200-349",3.95907360803462,3.5972205165308,3
+"DTG+TDF+3TC","18-24","Male","Unmarried","Heterosexual","4","Southern China","2021","1-7 days","200-349",4.49701132896327,0.817359888460487,0
+"B/F/TAF","18-24","Female","Married","Others","2","Northern China","2022","8-30 days","200-349",4.31949715795541,4.33859640918672,0
+"DTG+TDF+3TC","35-49","Female","Others","Heterosexual","1","Northern China","2020","Same-day","200-349",4.12332773089831,2.79134077334311,0
+"B/F/TAF","18-24","Male","Married","Others","2","Southwestern China","2021","Same-day","<200",4.79848854324349,1.42774607113097,0
+"DTG+TDF+3TC","18-24","Female","Married","Homosexual","3","Eastern China","2020","1-7 days","350-500",4.083630314657,4.56587133964058,1
+"DTG/3TC","25-34","Male","Unmarried","Others","4","Northeastern China","2021","1-7 days","<200",3.72748766214083,1.53563601663336,0
+"DTG/3TC","25-34","Male","Unmarried","Heterosexual","4","Northern China","2022","Same-day","350-500",4.91149511867559,1.31049713876564,0
+"DTG+TDF+3TC","25-34","Female","Married","Homosexual","3","Northern China","2020","Same-day",">500",4.60099895254675,0.951898977160454,0
+"DTG+TDF+3TC","35-49","Female","Unmarried","Homosexual","2","Northeastern China","2022","1-7 days","350-500",3.68857585671606,3.12500833126251,0
+"B/F/TAF","35-49","Male","Married","Others","4","Central China","2023","1-7 days","200-349",4.14808856118475,4.11992988083512,1
+"DTG+TDF+3TC","25-34","Female","Unmarried","Homosexual","2","Southern China","2022","8-30 days","<200",4.92562304994779,0.602314695366658,0
+"DTG/3TC","35-49","Female","Married","Heterosexual","4","Northwestern China","2021","Same-day","200-349",4.00124384911532,1.95308809482958,0
+"DTG+TDF+3TC","50+","Male","Married","Homosexual","4","Eastern China","2022",">30 days","<200",4.88744739746644,3.68736909842119,0
+"DTG/3TC","18-24","Male","Married","Heterosexual","1","Southern China","2022","Same-day",">500",4.33626270132638,1.45629446662497,0
+"B/F/TAF","18-24","Male","Married","Others","2","Southwestern China","2021",">30 days","<200",3.79102147958825,3.92346369056031,1
+"DTG+TDF+3TC","35-49","Female","Others","Others","3","Northeastern China","2022","1-7 days","200-349",4.73540018109973,2.66717144206632,0
+"DTG/3TC","25-34","Male","Others","Homosexual","1","Northern China","2020","Same-day","<200",3.25554819304706,4.29902257665526,0
+"B/F/TAF","35-49","Female","Others","Others","3","Eastern China","2020","Same-day",">500",4.17658007422417,2.40922532055993,0
+"DTG+TDF+3TC","25-34","Male","Others","Others","1","Northwestern China","2022","8-30 days","200-349",4.45700789954301,3.66146853775717,0
+"DTG/3TC","18-24","Female","Others","Homosexual","4","Northern China","2022","1-7 days","<200",4.6254609552445,1.6817210878944,1
+"DTG+TDF+3TC","50+","Male","Married","Heterosexual","3","Southwestern China","2022","1-7 days","350-500",4.62850183987773,4.91976524610072,1
+"B/F/TAF","18-24","Male","Others","Others","4","Southern China","2020","Same-day","<200",4.5572874311476,4.88919370854273,2
+"DTG/3TC","25-34","Male","Unmarried","Others","1","Southwestern China","2021","1-7 days",">500",5.19248012937471,3.17665163287893,0
+"DTG/3TC","35-49","Female","Married","Heterosexual","1","Central China","2023","8-30 days","350-500",5.35731540786091,1.53273128485307,0
+"DTG/3TC","35-49","Male","Unmarried","Heterosexual","1","Northern China","2020","1-7 days","200-349",5.41597246065771,2.66564727993682,0
+"B/F/TAF","25-34","Female","Married","Homosexual","4","Eastern China","2023","8-30 days","350-500",3.84434356797165,4.42916715610772,0
+"DTG/3TC","50+","Female","Unmarried","Heterosexual","3","Eastern China","2021",">30 days",">500",4.09676934960345,1.98674739454873,0
+"DTG+TDF+3TC","18-24","Male","Others","Homosexual","4","Central China","2022","Same-day",">500",3.87065907739279,3.7659067788627,2
+"DTG+TDF+3TC","18-24","Male","Others","Homosexual","2","Southwestern China","2020","Same-day","350-500",4.29077716444551,2.62069459469058,0
+"DTG+TDF+3TC","35-49","Male","Married","Heterosexual","4","Northwestern China","2022","1-7 days",">500",4.65267029061061,4.84404234809335,1
+"DTG/3TC","25-34","Female","Married","Heterosexual","2","Southern China","2023",">30 days","350-500",4.59353089838462,3.64193162170704,1
+"B/F/TAF","18-24","Female","Others","Heterosexual","2","Eastern China","2020",">30 days","<200",4.38440379541797,2.94685100344941,0
+"B/F/TAF","25-34","Male","Married","Heterosexual","2","Southern China","2023","8-30 days","350-500",4.42234928665824,3.73405481758527,1
+"DTG+TDF+3TC","25-34","Female","Unmarried","Heterosexual","4","Northern China","2021","1-7 days","200-349",4.29095812978839,2.76620732550509,0
+"DTG+TDF+3TC","35-49","Male","Others","Heterosexual","4","Southwestern China","2022","Same-day","350-500",4.0696751956757,2.32691897614859,0
+"DTG/3TC","25-34","Male","Unmarried","Others","3","Southern China","2021",">30 days","200-349",4.13317646604745,1.70998297841288,0
+"DTG+TDF+3TC","25-34","Male","Married","Others","2","Northwestern China","2023","Same-day","200-349",4.08547435434691,0.551172793959267,0
+"DTG+TDF+3TC","25-34","Female","Unmarried","Others","3","Central China","2021","1-7 days","350-500",4.24639446102281,1.01623619126622,0
+"B/F/TAF","35-49","Male","Others","Homosexual","1","Northeastern China","2023","8-30 days","350-500",3.80272950288676,2.83738121797796,0
+"DTG/3TC","50+","Female","Unmarried","Heterosexual","1","Southwestern China","2021","Same-day","350-500",5.1164379340616,2.21657942363527,0
+"B/F/TAF","25-34","Male","Unmarried","Homosexual","1","Northern China","2020","Same-day","200-349",5.47555849524643,3.8214573339792,0
+"DTG/3TC","50+","Male","Unmarried","Heterosexual","4","Southern China","2023","1-7 days",">500",3.84555782157821,1.74446371931117,1
+"DTG/3TC","50+","Male","Others","Others","4","Southwestern China","2023","1-7 days","<200",5.12776046743887,0.753060174989514,0
+"DTG/3TC","50+","Male","Others","Homosexual","3","Northern China","2022","Same-day",">500",4.556622071976,1.86318294540979,1
+"DTG/3TC","25-34","Female","Married","Others","1","Southern China","2020",">30 days","<200",4.51337727290905,3.12147964222822,1
+"DTG+TDF+3TC","18-24","Female","Unmarried","Others","1","Northwestern China","2022","Same-day","200-349",4.52922848270894,3.40414101851638,1
+"DTG+TDF+3TC","25-34","Female","Unmarried","Homosexual","4","Central China","2023","Same-day","350-500",4.72857682522508,1.04351208079606,0
+"B/F/TAF","35-49","Male","Unmarried","Homosexual","4","Northwestern China","2022","1-7 days","200-349",4.55135682768219,1.97319273813628,0
+"B/F/TAF","35-49","Male","Married","Heterosexual","4","Eastern China","2021","Same-day","350-500",4.06954156716697,2.45549343130551,0
+"DTG/3TC","35-49","Male","Unmarried","Others","3","Southwestern China","2022","1-7 days",">500",4.56904996662119,0.501441489323042,0
+"DTG+TDF+3TC","50+","Male","Married","Others","4","Northern China","2022","8-30 days","350-500",4.93726981353107,1.56497189193033,0
+"B/F/TAF","18-24","Male","Others","Homosexual","3","Northwestern China","2021","Same-day",">500",4.38204523019697,2.37751226208638,0
+"DTG+TDF+3TC","35-49","Male","Others","Homosexual","3","Northwestern China","2021","8-30 days","350-500",3.88778967232137,2.83385752036702,0
+"DTG+TDF+3TC","35-49","Female","Others","Heterosexual","4","Northeastern China","2022","8-30 days","200-349",3.6743486569272,3.08594661729876,0
+"DTG+TDF+3TC","35-49","Male","Married","Homosexual","1","Southern China","2023",">30 days","<200",4.81135281756485,3.71978395164479,0
+"B/F/TAF","35-49","Male","Others","Others","4","Central China","2023","Same-day","200-349",4.46803934783537,2.62323283194564,0
+"DTG/3TC","25-34","Male","Unmarried","Homosexual","2","Southern China","2020","1-7 days","350-500",4.20337844345668,1.74051316385157,1
+"DTG/3TC","35-49","Female","Others","Heterosexual","1","Northeastern China","2023","8-30 days","<200",4.61280168176128,3.10844781855121,0
+"DTG+TDF+3TC","50+","Male","Married","Heterosexual","3","Southern China","2023","8-30 days",">500",4.15200349874857,4.25935113162268,0
+"DTG+TDF+3TC","18-24","Female","Others","Others","3","Southwestern China","2020","Same-day",">500",4.45881570621249,1.96803870168515,0
+"DTG+TDF+3TC","35-49","Male","Married","Others","2","Southwestern China","2020","8-30 days","<200",4.6429380415377,4.10984328715131,1
+"B/F/TAF","25-34","Male","Married","Others","4","Southern China","2021","Same-day","350-500",3.48055351275333,4.23295639595017,0
+"DTG/3TC","50+","Male","Unmarried","Heterosexual","4","Southern China","2023",">30 days","200-349",4.00783973594295,4.58731270371936,0
+"B/F/TAF","18-24","Male","Unmarried","Others","3","Eastern China","2020","1-7 days","<200",3.83918161121189,2.15297405864112,0
+"DTG+TDF+3TC","35-49","Male","Married","Others","2","Northern China","2022",">30 days","<200",3.88134507153916,1.34109465708025,0
+"DTG/3TC","18-24","Female","Unmarried","Heterosexual","1","Northwestern China","2020","1-7 days","200-349",5.27625103585241,1.954441407579,0
+"B/F/TAF","50+","Male","Others","Heterosexual","2","Northeastern China","2020",">30 days",">500",5.09180202515022,1.36471666547004,0
+"B/F/TAF","35-49","Male","Married","Heterosexual","4","Eastern China","2021",">30 days","200-349",4.88216776171067,4.2010253095068,0
+"DTG+TDF+3TC","25-34","Male","Unmarried","Heterosexual","4","Eastern China","2020",">30 days","<200",4.31460832786861,4.49769848387223,0
+"DTG/3TC","18-24","Female","Others","Homosexual","3","Northern China","2023","1-7 days","<200",5.09226430655211,4.47585579636507,0
+"B/F/TAF","50+","Male","Unmarried","Heterosexual","2","Eastern China","2023","Same-day",">500",3.88942805930327,2.41997676470783,0
+"DTG+TDF+3TC","25-34","Female","Unmarried","Heterosexual","3","Eastern China","2021","1-7 days","350-500",3.50201297650223,2.01938786660321,0
+"B/F/TAF","50+","Male","Others","Others","3","Northwestern China","2020","8-30 days","200-349",2.986477140618,2.4312337298179,0
+"B/F/TAF","35-49","Male","Married","Homosexual","4","Central China","2023","8-30 days","<200",4.61365677219053,2.52325899677817,1
+"DTG/3TC","50+","Male","Married","Homosexual","2","Southwestern China","2020","1-7 days","200-349",4.51823530453328,1.65262462384999,0
+"DTG/3TC","35-49","Female","Others","Others","2","Southwestern China","2022",">30 days","200-349",4.10495426667802,1.57460918312427,0
+"DTG/3TC","25-34","Female","Married","Heterosexual","3","Southwestern China","2022","8-30 days","200-349",4.74457925004,2.33631497540046,0
+"DTG/3TC","25-34","Female","Married","Homosexual","3","Eastern China","2021","Same-day","200-349",4.52118364992812,2.98249007097911,0
+"DTG/3TC","50+","Female","Unmarried","Others","1","Southwestern China","2020","1-7 days","<200",4.34872072408652,2.31355514738243,0
+"DTG+TDF+3TC","50+","Male","Married","Homosexual","3","Northwestern China","2021",">30 days","<200",5.1371108116939,4.81719268043526,1
+"DTG/3TC","18-24","Female","Others","Heterosexual","4","Central China","2021","Same-day","350-500",5.21997438553108,1.89167172776069,0
+"DTG+TDF+3TC","35-49","Female","Married","Homosexual","4","Southern China","2023","Same-day","<200",5.02121268385497,4.14297242416069,0
+"DTG/3TC","25-34","Female","Others","Heterosexual","1","Southern China","2023","1-7 days","<200",4.79829534043276,2.66522284550592,0
+"DTG+TDF+3TC","35-49","Male","Unmarried","Homosexual","1","Northwestern China","2023","Same-day","350-500",3.9992673239367,3.83334793010727,1
+"DTG/3TC","35-49","Male","Married","Heterosexual","3","Southern China","2020",">30 days","<200",4.37583674180128,3.69792643864639,1
+"DTG+TDF+3TC","18-24","Female","Married","Homosexual","4","Southern China","2023","1-7 days","<200",4.47779721335527,3.55826843052637,0
+"DTG+TDF+3TC","35-49","Male","Unmarried","Heterosexual","4","Northeastern China","2022","Same-day","350-500",4.57479289172744,4.03016348858364,3
+"DTG/3TC","35-49","Male","Married","Homosexual","1","Northwestern China","2023","1-7 days","350-500",5.05895669101936,2.37292989448179,0
+"DTG+TDF+3TC","25-34","Female","Unmarried","Homosexual","1","Northern China","2022",">30 days",">500",3.79026474377965,4.6133825002471,0
+"B/F/TAF","35-49","Female","Married","Heterosexual","4","Northern China","2021",">30 days","<200",3.82219046765789,0.715365105192177,0
+"DTG/3TC","50+","Male","Others","Others","3","Southern China","2023","Same-day",">500",4.46997701999771,1.23376610840205,0
+"B/F/TAF","35-49","Male","Married","Others","1","Eastern China","2023",">30 days",">500",3.76454620396992,3.97886257513892,0
+"DTG/3TC","50+","Female","Others","Heterosexual","2","Southwestern China","2021","Same-day","<200",5.05835298192258,3.04578972910531,0
+"DTG+TDF+3TC","35-49","Female","Married","Homosexual","2","Northern China","2020",">30 days",">500",4.41592669512277,3.00919668050483,1
+"B/F/TAF","35-49","Female","Married","Heterosexual","3","Northwestern China","2020","1-7 days","350-500",3.15359937538648,4.60280414763838,0
+"B/F/TAF","18-24","Female","Married","Homosexual","2","Eastern China","2020","8-30 days","200-349",4.3807604545927,1.85880190588068,0
+"DTG/3TC","18-24","Male","Others","Homosexual","2","Southern China","2023","Same-day","350-500",4.60570556625744,1.61577867541928,0
+"B/F/TAF","50+","Female","Married","Others","1","Southern China","2021","8-30 days",">500",4.11437470095344,4.57303405099083,0
+"DTG+TDF+3TC","50+","Male","Others","Others","3","Southern China","2023",">30 days","350-500",3.86709517160395,4.12667263578624,1
+"DTG/3TC","25-34","Male","Unmarried","Heterosexual","3","Central China","2022","Same-day","200-349",4.50651309437351,4.1050212191185,0
+"DTG/3TC","18-24","Male","Unmarried","Others","4","Southwestern China","2022","8-30 days","<200",5.1119427428215,0.756989220390096,0
+"DTG+TDF+3TC","35-49","Male","Married","Others","3","Southwestern China","2022","Same-day","200-349",4.26026888882196,4.49083838961087,1
+"DTG+TDF+3TC","50+","Male","Others","Heterosexual","2","Northwestern China","2020","8-30 days","350-500",5.05515449433431,3.44557668862399,1
+"DTG+TDF+3TC","18-24","Male","Others","Homosexual","3","Eastern China","2020","Same-day","350-500",5.20060177595246,3.9766882287804,0
+"DTG/3TC","35-49","Male","Others","Others","2","Northeastern China","2022","1-7 days",">500",3.86796868627453,1.69001022120938,0
+"DTG/3TC","35-49","Female","Married","Others","4","Eastern China","2023","1-7 days","350-500",4.93280657616874,1.50345703645144,0
+"DTG/3TC","35-49","Male","Married","Others","1","Central China","2022","1-7 days","200-349",4.4460097175274,1.39482919638976,0
+"DTG+TDF+3TC","25-34","Male","Married","Others","3","Northeastern China","2020",">30 days",">500",4.62288095162787,2.2972061058972,1
+"B/F/TAF","18-24","Male","Unmarried","Heterosexual","1","Northern China","2021","8-30 days","<200",5.37759812833066,3.95846641447861,0
+"DTG/3TC","18-24","Male","Married","Others","3","Southern China","2021","Same-day","350-500",4.99024753740512,0.62617067724932,0
+"DTG/3TC","35-49","Male","Married","Others","4","Southwestern China","2020","1-7 days",">500",4.2587714375623,2.15885854233056,1
+"DTG/3TC","18-24","Male","Unmarried","Homosexual","1","Northwestern China","2023","8-30 days","200-349",3.74958413253385,2.39120560546871,1
+"DTG/3TC","25-34","Female","Married","Heterosexual","3","Northeastern China","2020","8-30 days","<200",4.68155695499974,1.19773752021138,0
+"DTG/3TC","35-49","Female","Unmarried","Heterosexual","3","Northeastern China","2021","8-30 days",">500",4.76378633075184,0.669675014680251,0
+"DTG/3TC","50+","Male","Married","Homosexual","2","Northern China","2022","1-7 days","<200",5.10678720632669,2.33695076790173,0
+"B/F/TAF","25-34","Female","Others","Others","1","Southwestern China","2022",">30 days","200-349",5.21469916672978,2.95105654583313,0
+"B/F/TAF","18-24","Female","Others","Homosexual","1","Southern China","2020","1-7 days",">500",4.60772942639786,1.38273545959964,0
+"B/F/TAF","35-49","Female","Married","Homosexual","3","Eastern China","2022","1-7 days",">500",4.5837764989915,3.02600686810911,0
+"B/F/TAF","25-34","Male","Others","Others","1","Eastern China","2023","8-30 days","200-349",4.72036197033584,0.605188146932051,0
+"B/F/TAF","25-34","Female","Unmarried","Homosexual","3","Southern China","2020","1-7 days","350-500",5.04172313147789,1.70686852408107,0
+"DTG+TDF+3TC","50+","Male","Married","Homosexual","4","Southwestern China","2021","Same-day","<200",4.5837025232955,4.27857311547268,0
+"B/F/TAF","18-24","Male","Others","Others","1","Northern China","2020",">30 days","200-349",4.30547370173305,2.70827066362835,0
+"DTG+TDF+3TC","18-24","Male","Married","Homosexual","1","Southwestern China","2020","Same-day","200-349",3.972909134443,2.57594928820617,0
+"DTG+TDF+3TC","50+","Male","Unmarried","Heterosexual","1","Northeastern China","2023","8-30 days","<200",4.5068196164009,0.73772306391038,0
+"DTG/3TC","35-49","Female","Unmarried","Heterosexual","1","Northern China","2023",">30 days","<200",4.49236149918341,0.921278678928502,0
+"DTG/3TC","50+","Male","Married","Homosexual","3","Northeastern China","2022","Same-day","350-500",4.50020936208759,3.41475498268846,1
+"B/F/TAF","25-34","Female","Married","Homosexual","4","Southwestern China","2021",">30 days","200-349",4.30291851419828,1.73646511218976,1
+"DTG+TDF+3TC","18-24","Male","Married","Heterosexual","1","Northern China","2023","1-7 days","350-500",4.20449875778209,4.87143854098395,0
+"DTG+TDF+3TC","50+","Female","Others","Homosexual","3","Southern China","2021","1-7 days",">500",4.96298634534837,4.10059701488353,0
+"B/F/TAF","50+","Female","Married","Others","4","Eastern China","2023","8-30 days","<200",4.4282648202159,3.76866986171808,0
+"DTG/3TC","18-24","Male","Unmarried","Heterosexual","3","Southern China","2020",">30 days","200-349",5.27926870192022,2.3234468534356,0
+"DTG/3TC","50+","Female","Married","Others","1","Central China","2023","1-7 days","<200",4.10852784126893,4.81277453107759,0
+"DTG+TDF+3TC","35-49","Female","Unmarried","Heterosexual","4","Northwestern China","2022","8-30 days","350-500",3.57802636326553,4.92288478615228,1
+"B/F/TAF","35-49","Female","Unmarried","Homosexual","2","Southern China","2021","Same-day","<200",4.42001371330914,2.48727870197035,0
+"DTG/3TC","50+","Female","Others","Others","4","Central China","2021","8-30 days","<200",4.95597198702199,2.44351796421688,0
+"DTG+TDF+3TC","18-24","Female","Unmarried","Others","1","Eastern China","2021","1-7 days","200-349",4.42325996396351,2.26614761224482,0
+"B/F/TAF","50+","Female","Unmarried","Others","1","Northwestern China","2023",">30 days","350-500",3.71056915445846,4.0621739809867,0
+"DTG/3TC","25-34","Male","Unmarried","Heterosexual","3","Central China","2021",">30 days","<200",4.20866479931606,4.43484650843311,0
+"DTG+TDF+3TC","18-24","Female","Married","Others","3","Eastern China","2022","8-30 days","<200",4.48048069733521,4.57358023466077,0
+"DTG+TDF+3TC","35-49","Female","Others","Heterosexual","3","Northeastern China","2022","1-7 days","<200",5.1521532433872,3.62012417067308,1
+"DTG+TDF+3TC","18-24","Female","Unmarried","Others","4","Northern China","2022",">30 days",">500",5.06165121898679,0.502598869847134,0
+"DTG+TDF+3TC","35-49","Female","Married","Homosexual","4","Central China","2022","Same-day",">500",4.90555806139085,4.04800258937757,0
+"DTG+TDF+3TC","25-34","Female","Married","Others","1","Northern China","2020","8-30 days","350-500",4.73569105884124,4.23326354345772,0
+"B/F/TAF","50+","Male","Married","Others","3","Southern China","2023","1-7 days","<200",4.09319981949261,2.50791190494783,0
+"B/F/TAF","18-24","Female","Married","Homosexual","3","Northeastern China","2022","Same-day","<200",4.90557610577564,1.16175589582417,0
+"DTG/3TC","35-49","Male","Unmarried","Heterosexual","3","Northwestern China","2020",">30 days","<200",5.10920054281308,2.66452444542665,0
+"B/F/TAF","50+","Male","Unmarried","Homosexual","4","Southern China","2020","Same-day",">500",4.87110005032302,1.37332455522846,0
+"B/F/TAF","50+","Female","Unmarried","Others","1","Northern China","2022",">30 days",">500",5.08827156102589,3.19435712404083,1
+"DTG/3TC","35-49","Female","Others","Homosexual","2","Northwestern China","2023","Same-day","<200",4.65205364999141,3.13162516697776,0
+"B/F/TAF","35-49","Male","Others","Others","3","Southwestern China","2021","8-30 days","<200",5.00927572251671,2.82816580787767,0
+"DTG+TDF+3TC","25-34","Male","Others","Homosexual","3","Southern China","2022","1-7 days","350-500",5.20178428888142,4.35021805413999,0
+"DTG/3TC","50+","Female","Unmarried","Homosexual","1","Northeastern China","2021","Same-day","350-500",4.01585819926719,4.03546106722206,0
+"DTG/3TC","25-34","Female","Married","Homosexual","4","Northeastern China","2020","Same-day","200-349",5.25956596035821,0.681842351914383,0
+"DTG+TDF+3TC","50+","Female","Unmarried","Homosexual","1","Eastern China","2023","8-30 days","200-349",4.88243414977792,2.10405171557795,1
+"DTG+TDF+3TC","18-24","Female","Unmarried","Others","1","Southern China","2022",">30 days",">500",4.85268588017128,4.45864470233209,0
+"B/F/TAF","25-34","Male","Married","Heterosexual","1","Northern China","2020","8-30 days","<200",4.53677388496399,1.30432068929076,0
+"DTG/3TC","25-34","Male","Unmarried","Heterosexual","1","Eastern China","2020","8-30 days",">500",4.02249373700884,0.891960872919299,0
+"DTG/3TC","50+","Female","Others","Heterosexual","2","Northwestern China","2022","Same-day","200-349",3.87495509754456,4.68728626542725,0
+"B/F/TAF","25-34","Male","Married","Heterosexual","1","Central China","2022",">30 days","350-500",4.65134852080876,1.06857816432603,0
+"DTG/3TC","25-34","Female","Others","Others","3","Central China","2023","1-7 days",">500",4.42783218171338,1.53635410580318,0
+"B/F/TAF","35-49","Male","Others","Others","4","Central China","2020","8-30 days","200-349",5.03251488603693,4.39125385612715,1
+"B/F/TAF","35-49","Male","Others","Homosexual","2","Southern China","2022","Same-day","350-500",4.49183973211538,3.26056275865994,0
+"DTG+TDF+3TC","18-24","Female","Unmarried","Heterosexual","1","Southern China","2023","1-7 days",">500",4.31445674888336,1.79422165639699,0
+"B/F/TAF","25-34","Male","Others","Homosexual","3","Northern China","2021","1-7 days","<200",5.25568555769565,0.641234820126556,0
+"B/F/TAF","35-49","Female","Unmarried","Heterosexual","3","Northwestern China","2022","Same-day","350-500",4.36732863335214,4.03008951724041,0
+"B/F/TAF","18-24","Male","Unmarried","Heterosexual","1","Southwestern China","2022",">30 days","<200",4.16276994443833,1.66947966511361,0
+"B/F/TAF","25-34","Male","Unmarried","Homosexual","4","Northeastern China","2021","1-7 days","350-500",4.83577963875761,4.27021797152702,0
+"B/F/TAF","18-24","Male","Others","Heterosexual","3","Northern China","2020","8-30 days",">500",5.25161008196231,4.96521115710493,1
+"B/F/TAF","25-34","Male","Others","Homosexual","2","Eastern China","2023","1-7 days","<200",4.0115631925336,4.41232529224362,0
+"DTG/3TC","35-49","Female","Unmarried","Heterosexual","3","Southern China","2021",">30 days","350-500",4.36339152228531,2.91398624423891,0
+"DTG/3TC","50+","Female","Unmarried","Heterosexual","2","Southern China","2021",">30 days","350-500",4.32733320985594,2.17108092457056,0
+"B/F/TAF","35-49","Female","Unmarried","Homosexual","2","Central China","2022","Same-day","350-500",4.51639738428826,4.0679422338726,1
+"B/F/TAF","35-49","Male","Married","Homosexual","3","Northern China","2020","1-7 days","350-500",4.66558916960577,3.37817351159174,0
+"DTG/3TC","50+","Male","Unmarried","Homosexual","1","Eastern China","2021","1-7 days","200-349",4.8650343123579,3.67917974537704,0
+"DTG+TDF+3TC","18-24","Female","Married","Others","4","Northwestern China","2021",">30 days","350-500",5.02353246744584,2.75847236590926,0
+"DTG+TDF+3TC","18-24","Male","Unmarried","Heterosexual","4","Southwestern China","2023",">30 days","350-500",4.13517891485949,0.850309133064002,0
+"DTG/3TC","25-34","Female","Married","Heterosexual","2","Central China","2021","8-30 days","<200",4.49301983038626,4.04312773840502,0
+"DTG/3TC","50+","Male","Unmarried","Heterosexual","4","Northern China","2020","1-7 days","350-500",4.89380302183039,4.12218122859485,0
+"DTG+TDF+3TC","18-24","Male","Unmarried","Homosexual","2","Northern China","2022","8-30 days","<200",4.20276125849486,2.48368835251313,0
+"DTG/3TC","25-34","Female","Unmarried","Heterosexual","2","Central China","2020","1-7 days","<200",4.72815941453832,1.19058500020765,0
+"DTG/3TC","35-49","Male","Unmarried","Homosexual","1","Central China","2021","1-7 days","<200",5.37209204706252,4.88128683401737,0
+"B/F/TAF","25-34","Female","Others","Homosexual","4","Southern China","2022",">30 days","200-349",3.82874465956669,3.92919443442952,0
+"DTG+TDF+3TC","18-24","Female","Unmarried","Others","3","Northern China","2021","8-30 days","350-500",4.86210458340677,4.76865066098981,1
+"DTG+TDF+3TC","35-49","Female","Married","Heterosexual","4","Central China","2021","8-30 days",">500",4.46388660363049,1.01292409165762,0
+"DTG+TDF+3TC","18-24","Female","Married","Heterosexual","3","Central China","2020","1-7 days","350-500",3.99940831190296,4.45249297842383,0
+"DTG+TDF+3TC","18-24","Female","Married","Others","3","Southwestern China","2020",">30 days",">500",4.63165644403478,2.6933530374663,0
+"B/F/TAF","50+","Female","Married","Others","2","Northeastern China","2021","Same-day","200-349",4.47526631817166,4.51002123521175,1
+"B/F/TAF","35-49","Male","Unmarried","Others","3","Central China","2020","1-7 days","350-500",3.98811842242992,3.65916153520811,0
+"DTG+TDF+3TC","18-24","Male","Others","Homosexual","2","Southwestern China","2021","Same-day",">500",4.50993789194991,4.95096019399352,0
+"DTG+TDF+3TC","50+","Female","Unmarried","Homosexual","2","Northwestern China","2020","Same-day","<200",4.79222391543578,2.17481039266568,0
+"B/F/TAF","35-49","Female","Unmarried","Homosexual","1","Northeastern China","2021",">30 days","350-500",4.40123608797062,3.34202979900874,0
+"DTG/3TC","18-24","Female","Unmarried","Heterosexual","4","Southwestern China","2023",">30 days","<200",5.39874677361213,2.49108738638461,0
+"B/F/TAF","50+","Female","Others","Heterosexual","1","Southern China","2021","1-7 days","<200",5.28140671495153,1.80884577869438,0
+"DTG/3TC","50+","Female","Married","Homosexual","4","Southwestern China","2023",">30 days","<200",4.12436876740432,3.72497793938965,1
+"DTG/3TC","25-34","Female","Unmarried","Heterosexual","2","Northeastern China","2020","1-7 days",">500",5.18920541346445,0.89073824766092,0
+"DTG+TDF+3TC","50+","Male","Married","Heterosexual","1","Northeastern China","2020","Same-day","350-500",5.13073423835559,3.93937878415454,2
+"DTG/3TC","50+","Male","Others","Heterosexual","1","Eastern China","2022","8-30 days","200-349",4.17629648511774,3.87080867227633,0
+"DTG/3TC","50+","Female","Married","Homosexual","1","Southern China","2020",">30 days","<200",5.28444508987406,4.70965413260274,0
+"DTG/3TC","50+","Male","Unmarried","Others","1","Southwestern China","2022","Same-day",">500",5.33287895176442,2.44714096328244,0
+"B/F/TAF","18-24","Male","Others","Others","2","Northwestern China","2023","8-30 days","350-500",4.81309155415825,4.98935252497904,1
+"DTG/3TC","25-34","Female","Married","Others","3","Southern China","2022","8-30 days","<200",4.94606218113862,2.97405665158294,0
+"B/F/TAF","35-49","Male","Others","Heterosexual","2","Central China","2020","Same-day","350-500",3.99369245186443,2.5480353430612,0
+"DTG/3TC","18-24","Female","Married","Heterosexual","4","Northeastern China","2020","1-7 days","<200",5.43205906896627,3.39513087598607,0
+"B/F/TAF","35-49","Male","Others","Heterosexual","4","Southwestern China","2023","Same-day","350-500",4.2031684042519,4.58668431453407,0
+"B/F/TAF","50+","Female","Others","Homosexual","4","Northeastern China","2022","1-7 days","350-500",4.31972069033503,1.30849592690356,0
+"DTG+TDF+3TC","25-34","Male","Unmarried","Others","3","Southwestern China","2022","8-30 days","<200",4.75578538764451,3.90082211862318,0
+"DTG+TDF+3TC","25-34","Female","Others","Others","1","Eastern China","2023","8-30 days","200-349",4.55157090884201,3.58243033930194,0
+"B/F/TAF","50+","Male","Unmarried","Homosexual","1","Northeastern China","2020","8-30 days","200-349",5.34154204085051,2.87546372239012,0
+"B/F/TAF","35-49","Female","Others","Others","2","Central China","2020","1-7 days","<200",4.13256664717937,2.4128880550852,0
+"B/F/TAF","50+","Female","Others","Others","1","Northern China","2023","8-30 days","200-349",4.23112150595565,2.65518748410977,0
+"DTG/3TC","35-49","Male","Married","Homosexual","3","Northwestern China","2023","8-30 days","<200",4.63163259614784,4.30117280513514,0
+"B/F/TAF","50+","Male","Others","Heterosexual","4","Southwestern China","2021","1-7 days","<200",4.78179353915419,1.21765534137376,0
+"B/F/TAF","25-34","Female","Unmarried","Others","4","Southern China","2021","Same-day","350-500",5.96445036882733,3.20898937783204,0
+"DTG+TDF+3TC","35-49","Female","Others","Homosexual","4","Central China","2022","8-30 days","350-500",3.84998665955721,4.27624474745244,0
+"B/F/TAF","25-34","Male","Married","Homosexual","3","Southern China","2021","Same-day","350-500",5.05837434408527,2.20033678412437,0
+"B/F/TAF","50+","Female","Unmarried","Heterosexual","2","Central China","2022","Same-day","<200",4.94478963747926,4.32563769456465,0
+"DTG/3TC","18-24","Female","Others","Others","1","Southwestern China","2022","1-7 days","350-500",5.05136693155113,2.86092423321679,0
+"DTG+TDF+3TC","35-49","Male","Others","Others","2","Southwestern China","2023",">30 days","200-349",3.86547691952864,1.88532537710853,1
+"DTG/3TC","25-34","Male","Unmarried","Others","3","Central China","2022","1-7 days","200-349",4.68194660456396,4.48652997508179,1
+"DTG+TDF+3TC","25-34","Male","Unmarried","Homosexual","3","Southern China","2021",">30 days",">500",4.2521048527693,1.01672096701805,0
+"DTG/3TC","25-34","Female","Others","Others","4","Central China","2020","1-7 days","<200",3.62342671670279,1.91377891565207,0
+"B/F/TAF","50+","Female","Unmarried","Heterosexual","4","Northern China","2021","Same-day","200-349",4.04889227371831,2.80436655995436,0
+"DTG+TDF+3TC","25-34","Male","Unmarried","Heterosexual","2","Northern China","2021","8-30 days","<200",3.97800861743239,3.76707964390516,0
+"DTG+TDF+3TC","25-34","Female","Married","Others","1","Northeastern China","2023",">30 days","<200",5.31885740106257,4.40607375453692,0
+"DTG+TDF+3TC","35-49","Female","Others","Others","2","Northeastern China","2021","8-30 days","200-349",4.14613157572371,1.67423890030477,0
+"DTG+TDF+3TC","50+","Male","Unmarried","Others","1","Eastern China","2022",">30 days","350-500",4.94898790526303,4.81608510413207,0
+"DTG+TDF+3TC","25-34","Male","Unmarried","Homosexual","3","Eastern China","2021","8-30 days","<200",4.80296258875728,4.96223329741042,1
+"B/F/TAF","35-49","Female","Others","Homosexual","4","Northern China","2023","8-30 days","200-349",4.10264182602672,1.80015693232417,0
+"DTG/3TC","18-24","Male","Married","Homosexual","3","Northwestern China","2020",">30 days",">500",4.76908598705777,4.45022530900314,1
+"DTG+TDF+3TC","50+","Female","Married","Others","4","Southern China","2022","8-30 days","350-500",4.77818673711705,2.53476299857721,0
+"DTG/3TC","50+","Male","Married","Heterosexual","4","Southern China","2021","8-30 days","350-500",3.92373529048658,2.27506395394448,0
+"DTG+TDF+3TC","50+","Female","Married","Homosexual","1","Northern China","2021",">30 days","<200",4.86256032734456,4.80499303829856,0
+"B/F/TAF","50+","Female","Unmarried","Heterosexual","4","Central China","2023",">30 days","350-500",4.49728024607508,4.33759400900453,0
+"DTG/3TC","18-24","Female","Married","Heterosexual","2","Central China","2023","8-30 days",">500",4.3802850302947,2.04569764435291,0
+"DTG+TDF+3TC","18-24","Male","Others","Homosexual","3","Northeastern China","2020","8-30 days","200-349",4.05733923667145,1.37497823766898,0
+"DTG/3TC","35-49","Female","Married","Others","1","Southwestern China","2023","8-30 days","<200",4.41296947835224,1.20281471242197,1
+"DTG+TDF+3TC","35-49","Female","Others","Others","3","Southwestern China","2022",">30 days",">500",3.95757422217332,3.83693171653431,0
+"DTG/3TC","35-49","Female","Unmarried","Others","4","Northwestern China","2022",">30 days",">500",4.48800526196704,3.36370729806367,1
+"DTG/3TC","50+","Female","Married","Homosexual","2","Northeastern China","2022","1-7 days",">500",4.43362331598088,0.594703555339947,0
+"DTG+TDF+3TC","25-34","Female","Unmarried","Others","1","Northwestern China","2023","Same-day","350-500",4.37735502647312,4.96080575033557,0
+"DTG+TDF+3TC","25-34","Female","Others","Homosexual","4","Southwestern China","2022",">30 days","350-500",5.05685030271799,1.16151623416226,0
+"DTG+TDF+3TC","50+","Female","Others","Others","1","Northwestern China","2023","8-30 days","200-349",4.19044610881293,1.51689391455147,0
+"DTG/3TC","50+","Female","Others","Others","4","Central China","2020",">30 days","350-500",4.43383759849923,3.56697444408201,0
+"B/F/TAF","50+","Female","Others","Others","3","Eastern China","2023","8-30 days",">500",4.93192398797883,1.93134213448502,0
+"B/F/TAF","50+","Female","Married","Heterosexual","1","Central China","2023","1-7 days","200-349",5.16048749942738,4.88231201621238,1
+"B/F/TAF","50+","Female","Others","Others","1","Northwestern China","2020",">30 days","200-349",4.44788062255285,2.56383187253959,0
+"DTG/3TC","50+","Male","Unmarried","Others","2","Central China","2020","8-30 days",">500",4.53262683736836,4.33732012298424,1
+"B/F/TAF","50+","Male","Unmarried","Heterosexual","4","Eastern China","2023","Same-day","350-500",5.0495672081795,2.85599751921836,0
+"DTG+TDF+3TC","35-49","Male","Others","Others","3","Southern China","2023","8-30 days","200-349",4.65991778043332,3.26025647448841,0
+"DTG/3TC","25-34","Female","Others","Others","4","Eastern China","2020","1-7 days","<200",4.66591347715272,2.06912123842631,0
+"B/F/TAF","18-24","Male","Unmarried","Others","2","Northeastern China","2022",">30 days","<200",4.36998085482196,4.13004742574412,0
+"DTG+TDF+3TC","18-24","Male","Unmarried","Heterosexual","4","Southwestern China","2023","8-30 days","<200",4.54990962696932,3.57711368973833,2
+"DTG+TDF+3TC","18-24","Male","Others","Others","3","Southwestern China","2021","1-7 days","<200",4.5036203584404,1.31195804057643,0
+"DTG/3TC","25-34","Male","Married","Others","2","Southwestern China","2021","1-7 days","350-500",4.78800606559098,1.65147426945623,0
+"DTG+TDF+3TC","18-24","Male","Unmarried","Others","1","Southern China","2022",">30 days",">500",4.42733937468535,3.75075867865235,1
